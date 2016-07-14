@@ -1,3 +1,7 @@
+/** 
+ * Author: Veselina Kyncheva, vkyncheva93@gmail.com
+*/
+
 #include <iostream>
 #include "string.h"
 #include <TMath.h>
