@@ -1,0 +1,4332 @@
+{
+    "RPCUSEndcap/HV/RPC_EP1_R1_C01_TOP_HV": [
+	"RE+1_R1_CH01_A",
+	"RE+1_R1_CH01_B"
+    ],
+    "RPCUSEndcap/HV/RPC_EP1_R1_C01_BOT_HV": [
+	"RE+1_R1_CH01_C",
+	"RE+1_R1_CH01_D"
+    ],
+    "RPCUSEndcap/HV/RPC_EP1_R1_C02_TOP_HV": [
+	"RE+1_R1_CH02_A",
+	"RE+1_R1_CH02_B"
+    ],
+    "RPCUSEndcap/HV/RPC_EP1_R1_C02_BOT_HV": [
+	"RE+1_R1_CH02_C",
+	"RE+1_R1_CH02_D"
+    ],
+    "RPCUSEndcap/HV/RPC_EP1_R1_C03_TOP_HV": [
+	"RE+1_R1_CH03_A",
+	"RE+1_R1_CH03_B"
+    ],
+    "RPCUSEndcap/HV/RPC_EP1_R1_C03_BOT_HV": [
+	"RE+1_R1_CH03_C",
+	"RE+1_R1_CH03_D"
+    ],
+    "RPCUSEndcap/HV/RPC_EP1_R1_C04_TOP_HV": [
+	"RE+1_R1_CH04_A",
+	"RE+1_R1_CH04_B"
+    ],
+    "RPCUSEndcap/HV/RPC_EP1_R1_C04_BOT_HV": [
+	"RE+1_R1_CH04_C",
+	"RE+1_R1_CH04_D"
+    ],  
+  "RPCUSEndcap/HV/RPC_EP1_R3_C21_EP1_R3_C26_HV": [
+  "RE+1_R3_CH21_C", 
+  "RE+1_R3_CH21_B", 
+  "RE+1_R3_CH21_A", 
+  "RE+1_R3_CH26_A", 
+  "RE+1_R3_CH26_B", 
+  "RE+1_R3_CH26_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S08_RB2out_HV": [
+  "W-2_RB2out_S08_Forward", 
+  "W-2_RB2out_S08_Middle", 
+  "W-2_RB2out_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C09_HV": [
+  "RE-4_R3_CH09_B", 
+  "RE-4_R3_CH09_C", 
+  "RE-4_R3_CH09_A", 
+  "RE-4_R2_CH09_A", 
+  "RE-4_R2_CH09_C", 
+  "RE-4_R2_CH09_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S03_RB3minus_HV": [
+  "W+0_RB3-_S03_Forward", 
+  "W+0_RB3-_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S09_RB3minus_HV": [
+  "W+1_RB3-_S09_Backward", 
+  "W+1_RB3-_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S09_RB3plus_HV": [
+  "W-2_RB3+_S09_Forward", 
+  "W-2_RB3+_S09_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C16_EP2_R3_C12_HV": [
+  "RE+2_R3_CH12_B", 
+  "RE+2_R3_CH12_C", 
+  "RE+2_R3_CH12_A", 
+  "RE+1_R2_CH16_B", 
+  "RE+1_R2_CH16_C", 
+  "RE+1_R2_CH16_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S08_RB3plus_HV": [
+  "W+0_RB3+_S08_Forward", 
+  "W+0_RB3+_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S02_RB3plus_HV": [
+  "W+1_RB3+_S02_Forward", 
+  "W+1_RB3+_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S06_RB4minus_HV": [
+  "W+1_RB4-_S06_Forward", 
+  "W+1_RB4-_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB3plus_HV": [
+  "W+0_RB3+_S04_Forward", 
+  "W+0_RB3+_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S09_RB1out_HV": [
+  "W+0_RB1out_S09_Forward", 
+  "W+0_RB1out_S09_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB4minus_HV": [
+  "W+2_RB4-_S04_Forward", 
+  "W+2_RB4-_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C31_HV": [
+  "RE+4_R2_CH31_B", 
+  "RE+4_R2_CH31_C", 
+  "RE+4_R2_CH31_A", 
+  "RE+4_R3_CH31_A", 
+  "RE+4_R3_CH31_C", 
+  "RE+4_R3_CH31_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S11_RB2out_HV": [
+  "W+1_RB2out_S11_Backward", 
+  "W+1_RB2out_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S07_RB2out_HV": [
+  "W-1_RB2out_S07_Forward", 
+  "W-1_RB2out_S07_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C27_EP2_R3_C19_HV": [
+  "RE+1_R3_CH27_A", 
+  "RE+1_R3_CH27_C", 
+  "RE+1_R3_CH27_B", 
+  "RE+2_R3_CH19_A", 
+  "RE+2_R3_CH19_C", 
+  "RE+2_R3_CH19_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S07_RB4plus_HV": [
+  "W-1_RB4+_S07_Backward", 
+  "W-1_RB4+_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S07_RB3plus_HV": [
+  "W+2_RB3+_S07_Backward", 
+  "W+2_RB3+_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S09_RB2out_HV": [
+  "W+1_RB2out_S09_Backward", 
+  "W+1_RB2out_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S05_RB4plus_HV": [
+  "W-1_RB4+_S05_Forward", 
+  "W-1_RB4+_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S08_RB2out_HV": [
+  "W+1_RB2out_S08_Backward", 
+  "W+1_RB2out_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S03_RB3minus_HV": [
+  "W+2_RB3-_S03_Forward", 
+  "W+2_RB3-_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S11_RB4_HV": [
+  "W+2_RB4_S11_Backward", 
+  "W+2_RB4_S11_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C18_EP3_R3_C25_HV": [
+  "RE+3_R2_CH18_B", 
+  "RE+3_R2_CH18_C", 
+  "RE+3_R2_CH18_A", 
+  "RE+3_R3_CH25_A", 
+  "RE+3_R3_CH25_C", 
+  "RE+3_R3_CH25_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S03_RB3plus_HV": [
+  "W+1_RB3+_S03_Backward", 
+  "W+1_RB3+_S03_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S05_RB4minus_HV": [
+  "W-1_RB4-_S05_Forward", 
+  "W-1_RB4-_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S03_RB2in_HV": [
+  "W-1_RB2in_S03_Forward", 
+  "W-1_RB2in_S03_Middle", 
+  "W-1_RB2in_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S05_RB2in_HV": [
+  "W-1_RB2in_S05_Middle", 
+  "W-1_RB2in_S05_Backward", 
+  "W-1_RB2in_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C11_HV": [
+  "RE+4_R3_CH11_C", 
+  "RE+4_R3_CH11_B", 
+  "RE+4_R3_CH11_A", 
+  "RE+4_R2_CH11_A", 
+  "RE+4_R2_CH11_B", 
+  "RE+4_R2_CH11_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S09_RB1in_HV": [
+  "W+1_RB1in_S09_Backward", 
+  "W+1_RB1in_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S11_RB3minus_HV": [
+  "W-1_RB3-_S11_Backward", 
+  "W-1_RB3-_S11_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R3_C05_EP3_R3_C34_HV": [
+  "RE+3_R3_CH05_C", 
+  "RE+3_R3_CH05_B", 
+  "RE+3_R3_CH05_A", 
+  "RE+3_R3_CH34_C", 
+  "RE+3_R3_CH34_B", 
+  "RE+3_R3_CH34_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C16_HV": [
+  "RE-4_R2_CH16_A", 
+  "RE-4_R2_CH16_C", 
+  "RE-4_R2_CH16_B", 
+  "RE-4_R3_CH16_B", 
+  "RE-4_R3_CH16_C", 
+  "RE-4_R3_CH16_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C26_EN2_R2_C27_HV": [
+  "RE-2_R2_CH26_B", 
+  "RE-2_R2_CH26_C", 
+  "RE-2_R2_CH26_A", 
+  "RE-2_R2_CH27_C", 
+  "RE-2_R2_CH27_B", 
+  "RE-2_R2_CH27_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S09_RB3minus_HV": [
+  "W+0_RB3-_S09_Forward", 
+  "W+0_RB3-_S09_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C29_EP3_R3_C10_HV": [
+  "RE+3_R3_CH10_A", 
+  "RE+3_R3_CH10_C", 
+  "RE+3_R3_CH10_B", 
+  "RE+2_R3_CH29_A", 
+  "RE+2_R3_CH29_B", 
+  "RE+2_R3_CH29_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S11_RB3plus_HV": [
+  "W+2_RB3+_S11_Backward", 
+  "W+2_RB3+_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S03_RB3minus_HV": [
+  "W+1_RB3-_S03_Backward", 
+  "W+1_RB3-_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C07_EP2_R3_C06_HV": [
+  "RE+2_R3_CH06_A", 
+  "RE+2_R3_CH06_C", 
+  "RE+2_R3_CH06_B", 
+  "RE+2_R2_CH07_C", 
+  "RE+2_R2_CH07_B", 
+  "RE+2_R2_CH07_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S01_RB3minus_HV": [
+  "W+1_RB3-_S01_Backward", 
+  "W+1_RB3-_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S02_RB4plus_HV": [
+  "W+1_RB4+_S02_Backward", 
+  "W+1_RB4+_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S10_RB2out_HV": [
+  "W+0_RB2out_S10_Forward", 
+  "W+0_RB2out_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S02_RB1out_HV": [
+  "W-1_RB1out_S02_Backward", 
+  "W-1_RB1out_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S09_RB2in_HV": [
+  "W+2_RB2in_S09_Backward", 
+  "W+2_RB2in_S09_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C16_HV": [
+  "RE-1_R3_CH16_C", 
+  "RE-1_R3_CH16_B", 
+  "RE-1_R3_CH16_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C33_HV": [
+  "RE-4_R3_CH33_A", 
+  "RE-4_R3_CH33_C", 
+  "RE-4_R3_CH33_B", 
+  "RE-4_R2_CH33_B", 
+  "RE-4_R2_CH33_C", 
+  "RE-4_R2_CH33_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S09_RB4_HV": [
+  "W+2_RB4_S09_Forward", 
+  "W+2_RB4_S09_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C21_EP2_R2_C25_HV": [
+  "RE+2_R2_CH25_C", 
+  "RE+2_R2_CH25_B", 
+  "RE+2_R2_CH25_A", 
+  "RE+2_R2_CH21_C", 
+  "RE+2_R2_CH21_B", 
+  "RE+2_R2_CH21_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB2out_HV": [
+  "W+1_RB2out_S04_Forward", 
+  "W+1_RB2out_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C05_EN2_R3_C09_HV": [
+  "RE-2_R3_CH05_A", 
+  "RE-2_R3_CH05_B", 
+  "RE-2_R3_CH05_C", 
+  "RE-2_R3_CH09_A", 
+  "RE-2_R3_CH09_B", 
+  "RE-2_R3_CH09_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB1out_HV": [
+  "W+2_RB1out_S04_Forward", 
+  "W+2_RB1out_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C31_EN2_R2_C07_HV": [
+  "RE-2_R2_CH07_A", 
+  "RE-2_R2_CH07_C", 
+  "RE-2_R2_CH07_B", 
+  "RE-1_R2_CH31_A", 
+  "RE-1_R2_CH31_C", 
+  "RE-1_R2_CH31_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C06_EP2_R3_C04_HV": [
+  "RE+2_R3_CH04_C", 
+  "RE+2_R3_CH04_B", 
+  "RE+2_R3_CH04_A", 
+  "RE+1_R2_CH06_A", 
+  "RE+1_R2_CH06_C", 
+  "RE+1_R2_CH06_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R3_C16_EP3_R3_C22_HV": [
+  "RE+3_R3_CH16_C", 
+  "RE+3_R3_CH16_B", 
+  "RE+3_R3_CH16_A", 
+  "RE+3_R3_CH22_B", 
+  "RE+3_R3_CH22_C", 
+  "RE+3_R3_CH22_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C25_EN2_R2_C13_HV": [
+  "RE-1_R2_CH25_B", 
+  "RE-1_R2_CH25_C", 
+  "RE-1_R2_CH25_A", 
+  "RE-2_R2_CH13_B", 
+  "RE-2_R2_CH13_C", 
+  "RE-2_R2_CH13_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S09_RB3minus_HV": [
+  "W-1_RB3-_S09_Backward", 
+  "W-1_RB3-_S09_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C18_EP2_R3_C11_HV": [
+  "RE+2_R2_CH18_C", 
+  "RE+2_R2_CH18_B", 
+  "RE+2_R2_CH18_A", 
+  "RE+2_R3_CH11_A", 
+  "RE+2_R3_CH11_C", 
+  "RE+2_R3_CH11_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C28_EP3_R3_C26_HV": [
+  "RE+3_R2_CH28_C", 
+  "RE+3_R2_CH28_B", 
+  "RE+3_R2_CH28_A", 
+  "RE+3_R3_CH26_B", 
+  "RE+3_R3_CH26_C", 
+  "RE+3_R3_CH26_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C05_EP2_R2_C09_HV": [
+  "RE+2_R2_CH09_A", 
+  "RE+2_R2_CH09_C", 
+  "RE+2_R2_CH09_B", 
+  "RE+1_R3_CH05_A", 
+  "RE+1_R3_CH05_C", 
+  "RE+1_R3_CH05_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S08_RB1in_HV": [
+  "W+1_RB1in_S08_Forward", 
+  "W+1_RB1in_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S10_RB2out_HV": [
+  "W-1_RB2out_S10_Backward", 
+  "W-1_RB2out_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S12_RB1in_HV": [
+  "W+0_RB1in_S12_Backward", 
+  "W+0_RB1in_S12_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C11_HV": [
+  "RE-1_R3_CH11_A", 
+  "RE-1_R3_CH11_B", 
+  "RE-1_R3_CH11_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C14_EN2_R3_C14_HV": [
+  "RE-2_R3_CH14_B", 
+  "RE-2_R3_CH14_C", 
+  "RE-2_R3_CH14_A", 
+  "RE-1_R3_CH14_A", 
+  "RE-1_R3_CH14_C", 
+  "RE-1_R3_CH14_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C35_HV": [
+  "RE-4_R2_CH35_A", 
+  "RE-4_R2_CH35_B", 
+  "RE-4_R2_CH35_C", 
+  "RE-4_R3_CH35_C", 
+  "RE-4_R3_CH35_B", 
+  "RE-4_R3_CH35_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C23_EN3_R3_C25_HV": [
+  "RE-3_R3_CH25_C", 
+  "RE-3_R3_CH25_B", 
+  "RE-3_R3_CH25_A", 
+  "RE-3_R2_CH23_B", 
+  "RE-3_R2_CH23_C", 
+  "RE-3_R2_CH23_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S12_RB4minus_HV": [
+  "W+0_RB4-_S12_Backward", 
+  "W+0_RB4-_S12_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C05_EN3_R3_C08_HV": [
+  "RE-3_R3_CH05_A", 
+  "RE-3_R3_CH05_C", 
+  "RE-3_R3_CH05_B", 
+  "RE-3_R3_CH08_A", 
+  "RE-3_R3_CH08_B", 
+  "RE-3_R3_CH08_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C20_EP2_R3_C13_HV": [
+  "RE+1_R2_CH20_A", 
+  "RE+1_R2_CH20_C", 
+  "RE+1_R2_CH20_B", 
+  "RE+2_R3_CH13_C", 
+  "RE+2_R3_CH13_B", 
+  "RE+2_R3_CH13_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S08_RB1out_HV": [
+  "W+1_RB1out_S08_Forward", 
+  "W+1_RB1out_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S03_RB3plus_HV": [
+  "W-1_RB3+_S03_Backward", 
+  "W-1_RB3+_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C34_EN2_R3_C08_HV": [
+  "RE-1_R2_CH34_A", 
+  "RE-1_R2_CH34_B", 
+  "RE-1_R2_CH34_C", 
+  "RE-2_R3_CH08_A", 
+  "RE-2_R3_CH08_C", 
+  "RE-2_R3_CH08_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S08_RB2out_HV": [
+  "W-1_RB2out_S08_Backward", 
+  "W-1_RB2out_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S03_RB2in_HV": [
+  "W+0_RB2in_S03_Forward", 
+  "W+0_RB2in_S03_Backward", 
+  "W+0_RB2in_S03_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S06_RB1out_HV": [
+  "W-2_RB1out_S06_Forward", 
+  "W-2_RB1out_S06_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C05_EP1_R3_C01_HV": [
+  "RE+1_R2_CH05_B", 
+  "RE+1_R2_CH05_C", 
+  "RE+1_R2_CH05_A", 
+  "RE+1_R3_CH01_A", 
+  "RE+1_R3_CH01_C", 
+  "RE+1_R3_CH01_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S09_RB3minus_HV": [
+  "W-2_RB3-_S09_Forward", 
+  "W-2_RB3-_S09_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S03_RB4plus_HV": [
+  "W+1_RB4+_S03_Backward", 
+  "W+1_RB4+_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C01_HV": [
+  "RE-4_R3_CH01_B", 
+  "RE-4_R3_CH01_C", 
+  "RE-4_R3_CH01_A", 
+  "RE-4_R2_CH01_A", 
+  "RE-4_R2_CH01_C", 
+  "RE-4_R2_CH01_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S06_RB4plus_HV": [
+  "W-1_RB4+_S06_Backward", 
+  "W-1_RB4+_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB3minus_HV": [
+  "W+1_RB3-_S04_Forward", 
+  "W+1_RB3-_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S01_RB2out_HV": [
+  "W+1_RB2out_S01_Backward", 
+  "W+1_RB2out_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S03_RB1in_HV": [
+  "W-1_RB1in_S03_Forward", 
+  "W-1_RB1in_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S10_RB1in_HV": [
+  "W+2_RB1in_S10_Forward", 
+  "W+2_RB1in_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C23_EP3_R3_C13_HV": [
+  "RE+3_R3_CH13_B", 
+  "RE+3_R3_CH13_C", 
+  "RE+3_R3_CH13_A", 
+  "RE+2_R2_CH23_A", 
+  "RE+2_R2_CH23_C", 
+  "RE+2_R2_CH23_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S03_RB2out_HV": [
+  "W-1_RB2out_S03_Backward", 
+  "W-1_RB2out_S03_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S02_RB4minus_HV": [
+  "W-2_RB4-_S02_Forward", 
+  "W-2_RB4-_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S01_RB2in_HV": [
+  "W+1_RB2in_S01_Forward", 
+  "W+1_RB2in_S01_Backward", 
+  "W+1_RB2in_S01_Middle"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C09_EN3_R3_C06_HV": [
+  "RE-3_R2_CH09_B", 
+  "RE-3_R2_CH09_C", 
+  "RE-3_R2_CH09_A", 
+  "RE-3_R3_CH06_B", 
+  "RE-3_R3_CH06_C", 
+  "RE-3_R3_CH06_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S11_RB1in_HV": [
+  "W+2_RB1in_S11_Forward", 
+  "W+2_RB1in_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C24_EN2_R3_C12_HV": [
+  "RE-1_R3_CH24_A", 
+  "RE-1_R3_CH24_B", 
+  "RE-1_R3_CH24_C", 
+  "RE-2_R3_CH12_A", 
+  "RE-2_R3_CH12_B", 
+  "RE-2_R3_CH12_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S09_RB2in_HV": [
+  "W+1_RB2in_S09_Forward", 
+  "W+1_RB2in_S09_Middle", 
+  "W+1_RB2in_S09_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C36_EP3_R3_C08_HV": [
+  "RE+3_R3_CH08_B", 
+  "RE+3_R3_CH08_C", 
+  "RE+3_R3_CH08_A", 
+  "RE+2_R3_CH36_A", 
+  "RE+2_R3_CH36_B", 
+  "RE+2_R3_CH36_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S09_RB1out_HV": [
+  "W+2_RB1out_S09_Backward", 
+  "W+2_RB1out_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S05_RB1out_HV": [
+  "W-2_RB1out_S05_Backward", 
+  "W-2_RB1out_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C17_HV": [
+  "RE+4_R3_CH17_A", 
+  "RE+4_R3_CH17_C", 
+  "RE+4_R3_CH17_B", 
+  "RE+4_R2_CH17_B", 
+  "RE+4_R2_CH17_C", 
+  "RE+4_R2_CH17_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S10_RB2in_HV": [
+  "W-1_RB2in_S10_Forward", 
+  "W-1_RB2in_S10_Backward", 
+  "W-1_RB2in_S10_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S11_RB4_HV": [
+  "W+1_RB4_S11_Forward", 
+  "W+1_RB4_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C22_EP3_R3_C24_HV": [
+  "RE+3_R3_CH24_A", 
+  "RE+3_R3_CH24_B", 
+  "RE+3_R3_CH24_C", 
+  "RE+2_R2_CH22_A", 
+  "RE+2_R2_CH22_B", 
+  "RE+2_R2_CH22_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S05_RB2in_HV": [
+  "W+1_RB2in_S05_Forward", 
+  "W+1_RB2in_S05_Middle", 
+  "W+1_RB2in_S05_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C15_EN1_R2_C17_HV": [
+  "RE-1_R2_CH15_C", 
+  "RE-1_R2_CH15_B", 
+  "RE-1_R2_CH15_A", 
+  "RE-1_R2_CH17_A", 
+  "RE-1_R2_CH17_C", 
+  "RE-1_R2_CH17_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C05_EP3_R3_C01_HV": [
+  "RE+3_R2_CH05_A", 
+  "RE+3_R2_CH05_B", 
+  "RE+3_R2_CH05_C", 
+  "RE+3_R3_CH01_C", 
+  "RE+3_R3_CH01_B", 
+  "RE+3_R3_CH01_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S11_RB4_HV": [
+  "W-2_RB4_S11_Forward", 
+  "W-2_RB4_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C07_EP2_R2_C05_HV": [
+  "RE+2_R2_CH05_A", 
+  "RE+2_R2_CH05_C", 
+  "RE+2_R2_CH05_B", 
+  "RE+1_R3_CH07_C", 
+  "RE+1_R3_CH07_B", 
+  "RE+1_R3_CH07_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C02_EN3_R2_C05_HV": [
+  "RE-3_R2_CH02_A", 
+  "RE-3_R2_CH02_C", 
+  "RE-3_R2_CH02_B", 
+  "RE-3_R2_CH05_B", 
+  "RE-3_R2_CH05_C", 
+  "RE-3_R2_CH05_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C28_EP1_R3_C14_HV": [
+  "RE+1_R2_CH28_A", 
+  "RE+1_R2_CH28_C", 
+  "RE+1_R2_CH28_B", 
+  "RE+1_R3_CH14_C", 
+  "RE+1_R3_CH14_B", 
+  "RE+1_R3_CH14_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S12_RB3plus_HV": [
+  "W+1_RB3+_S12_Backward", 
+  "W+1_RB3+_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S08_RB3plus_HV": [
+  "W-2_RB3+_S08_Forward", 
+  "W-2_RB3+_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C01_HV": [
+  "RE+4_R3_CH01_A", 
+  "RE+4_R3_CH01_B", 
+  "RE+4_R3_CH01_C", 
+  "RE+4_R2_CH01_C", 
+  "RE+4_R2_CH01_B", 
+  "RE+4_R2_CH01_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C05_HV": [
+  "RE+4_R3_CH05_A", 
+  "RE+4_R3_CH05_B", 
+  "RE+4_R3_CH05_C", 
+  "RE+4_R2_CH05_C", 
+  "RE+4_R2_CH05_B", 
+  "RE+4_R2_CH05_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB1in_HV": [
+  "W-1_RB1in_S04_Forward", 
+  "W-1_RB1in_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S06_RB4plus_HV": [
+  "W+2_RB4+_S06_Forward", 
+  "W+2_RB4+_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S02_RB4plus_HV": [
+  "W-1_RB4+_S02_Forward", 
+  "W-1_RB4+_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S01_RB1in_HV": [
+  "W-1_RB1in_S01_Backward", 
+  "W-1_RB1in_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S05_RB4plus_HV": [
+  "W+1_RB4+_S05_Backward", 
+  "W+1_RB4+_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S08_RB3plus_HV": [
+  "W+1_RB3+_S08_Backward", 
+  "W+1_RB3+_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S05_RB3plus_HV": [
+  "W+1_RB3+_S05_Backward", 
+  "W+1_RB3+_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C18_EP2_R2_C19_HV": [
+  "RE+2_R2_CH19_B", 
+  "RE+2_R2_CH19_C", 
+  "RE+2_R2_CH19_A", 
+  "RE+1_R2_CH18_A", 
+  "RE+1_R2_CH18_B", 
+  "RE+1_R2_CH18_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S03_RB2in_HV": [
+  "W+2_RB2in_S03_Forward", 
+  "W+2_RB2in_S03_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C26_HV": [
+  "RE-4_R3_CH26_C", 
+  "RE-4_R3_CH26_B", 
+  "RE-4_R3_CH26_A", 
+  "RE-4_R2_CH26_A", 
+  "RE-4_R2_CH26_B", 
+  "RE-4_R2_CH26_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB1out_HV": [
+  "W-2_RB1out_S04_Forward", 
+  "W-2_RB1out_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S03_RB2in_HV": [
+  "W+1_RB2in_S03_Middle", 
+  "W+1_RB2in_S03_Backward", 
+  "W+1_RB2in_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C04_HV": [
+  "RE+4_R3_CH04_A", 
+  "RE+4_R3_CH04_C", 
+  "RE+4_R3_CH04_B", 
+  "RE+4_R2_CH04_B", 
+  "RE+4_R2_CH04_C", 
+  "RE+4_R2_CH04_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C14_HV": [
+  "RE-4_R3_CH14_A", 
+  "RE-4_R3_CH14_B", 
+  "RE-4_R3_CH14_C", 
+  "RE-4_R2_CH14_C", 
+  "RE-4_R2_CH14_B", 
+  "RE-4_R2_CH14_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S03_RB1out_HV": [
+  "W+1_RB1out_S03_Forward", 
+  "W+1_RB1out_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S07_RB2in_HV": [
+  "W+2_RB2in_S07_Backward", 
+  "W+2_RB2in_S07_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C10_HV": [
+  "RE+4_R3_CH10_B", 
+  "RE+4_R3_CH10_C", 
+  "RE+4_R3_CH10_A", 
+  "RE+4_R2_CH10_A", 
+  "RE+4_R2_CH10_C", 
+  "RE+4_R2_CH10_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S05_RB2out_HV": [
+  "W+2_RB2out_S05_Backward", 
+  "W+2_RB2out_S05_Middle", 
+  "W+2_RB2out_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C16_EN3_R2_C18_HV": [
+  "RE-3_R2_CH18_A", 
+  "RE-3_R2_CH18_B", 
+  "RE-3_R2_CH18_C", 
+  "RE-3_R2_CH16_B", 
+  "RE-3_R2_CH16_C", 
+  "RE-3_R2_CH16_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S09_RB2in_HV": [
+  "W+0_RB2in_S09_Forward", 
+  "W+0_RB2in_S09_Backward", 
+  "W+0_RB2in_S09_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB4plusplus_HV": [
+  "W+1_RB4++_S04_Backward", 
+  "W+1_RB4++_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S01_RB1out_HV": [
+  "W+1_RB1out_S01_Forward", 
+  "W+1_RB1out_S01_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C12_HV": [
+  "RE+4_R3_CH12_A", 
+  "RE+4_R3_CH12_B", 
+  "RE+4_R3_CH12_C", 
+  "RE+4_R2_CH12_C", 
+  "RE+4_R2_CH12_B", 
+  "RE+4_R2_CH12_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB2out_HV": [
+  "W-1_RB2out_S04_Forward", 
+  "W-1_RB2out_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R3_C11_EP3_R3_C14_HV": [
+  "RE+3_R3_CH14_A", 
+  "RE+3_R3_CH14_C", 
+  "RE+3_R3_CH14_B", 
+  "RE+3_R3_CH11_A", 
+  "RE+3_R3_CH11_B", 
+  "RE+3_R3_CH11_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C19_EP2_R2_C17_HV": [
+  "RE+2_R2_CH17_A", 
+  "RE+2_R2_CH17_B", 
+  "RE+2_R2_CH17_C", 
+  "RE+1_R2_CH19_A", 
+  "RE+1_R2_CH19_C", 
+  "RE+1_R2_CH19_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C35_HV": [
+  "RE+4_R2_CH35_B", 
+  "RE+4_R2_CH35_C", 
+  "RE+4_R2_CH35_A", 
+  "RE+4_R3_CH35_A", 
+  "RE+4_R3_CH35_C", 
+  "RE+4_R3_CH35_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S06_RB2in_HV": [
+  "W-2_RB2in_S06_Forward", 
+  "W-2_RB2in_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S06_RB4minus_HV": [
+  "W-1_RB4-_S06_Backward", 
+  "W-1_RB4-_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S08_RB3minus_HV": [
+  "W+0_RB3-_S08_Forward", 
+  "W+0_RB3-_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C23_EP3_R3_C28_HV": [
+  "RE+3_R2_CH23_A", 
+  "RE+3_R2_CH23_B", 
+  "RE+3_R2_CH23_C", 
+  "RE+3_R3_CH28_A", 
+  "RE+3_R3_CH28_B", 
+  "RE+3_R3_CH28_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S03_RB1in_HV": [
+  "W+0_RB1in_S03_Forward", 
+  "W+0_RB1in_S03_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C35_EN3_R3_C02_HV": [
+  "RE-2_R2_CH35_B", 
+  "RE-2_R2_CH35_C", 
+  "RE-2_R2_CH35_A", 
+  "RE-3_R3_CH02_B", 
+  "RE-3_R3_CH02_C", 
+  "RE-3_R3_CH02_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S06_RB3minus_HV": [
+  "W+1_RB3-_S06_Backward", 
+  "W+1_RB3-_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S12_RB4plus_HV": [
+  "W-1_RB4+_S12_Backward", 
+  "W-1_RB4+_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB3plus_HV": [
+  "W-2_RB3+_S04_Backward", 
+  "W-2_RB3+_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S05_RB4plus_HV": [
+  "W+2_RB4+_S05_Backward", 
+  "W+2_RB4+_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S12_RB1in_HV": [
+  "W+2_RB1in_S12_Backward", 
+  "W+2_RB1in_S12_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C30_HV": [
+  "RE+4_R2_CH30_C", 
+  "RE+4_R2_CH30_B", 
+  "RE+4_R2_CH30_A", 
+  "RE+4_R3_CH30_A", 
+  "RE+4_R3_CH30_B", 
+  "RE+4_R3_CH30_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C22_HV": [
+  "RE-4_R3_CH22_C", 
+  "RE-4_R3_CH22_B", 
+  "RE-4_R3_CH22_A", 
+  "RE-4_R2_CH22_A", 
+  "RE-4_R2_CH22_B", 
+  "RE-4_R2_CH22_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C29_EP3_R3_C35_HV": [
+  "RE+3_R3_CH35_B", 
+  "RE+3_R3_CH35_C", 
+  "RE+3_R3_CH35_A", 
+  "RE+3_R2_CH29_B", 
+  "RE+3_R2_CH29_C", 
+  "RE+3_R2_CH29_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S10_RB4plus_HV": [
+  "W-1_RB4+_S10_Forward", 
+  "W-1_RB4+_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C11_EN3_R3_C19_HV": [
+  "RE-3_R3_CH11_B", 
+  "RE-3_R3_CH11_C", 
+  "RE-3_R3_CH11_A", 
+  "RE-3_R3_CH19_B", 
+  "RE-3_R3_CH19_C", 
+  "RE-3_R3_CH19_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S11_RB2in_HV": [
+  "W+0_RB2in_S11_Backward", 
+  "W+0_RB2in_S11_Middle", 
+  "W+0_RB2in_S11_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C30_EP3_R2_C10_HV": [
+  "RE+2_R3_CH30_B", 
+  "RE+2_R3_CH30_C", 
+  "RE+2_R3_CH30_A", 
+  "RE+3_R2_CH10_B", 
+  "RE+3_R2_CH10_C", 
+  "RE+3_R2_CH10_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S05_RB3minus_HV": [
+  "W-1_RB3-_S05_Forward", 
+  "W-1_RB3-_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB4plusplus_HV": [
+  "W+2_RB4++_S04_Backward", 
+  "W+2_RB4++_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C03_EP3_R3_C32_HV": [
+  "RE+3_R2_CH03_B", 
+  "RE+3_R2_CH03_C", 
+  "RE+3_R2_CH03_A", 
+  "RE+3_R3_CH32_A", 
+  "RE+3_R3_CH32_C", 
+  "RE+3_R3_CH32_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S06_RB2in_HV": [
+  "W+1_RB2in_S06_Backward", 
+  "W+1_RB2in_S06_Middle", 
+  "W+1_RB2in_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S02_RB3plus_HV": [
+  "W+2_RB3+_S02_Forward", 
+  "W+2_RB3+_S02_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C03_EP1_R3_C36_HV": [
+  "RE+1_R3_CH36_C", 
+  "RE+1_R3_CH36_B", 
+  "RE+1_R3_CH36_A", 
+  "RE+1_R3_CH03_C", 
+  "RE+1_R3_CH03_B", 
+  "RE+1_R3_CH03_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C30_EP2_R3_C10_HV": [
+  "RE+2_R2_CH30_A", 
+  "RE+2_R2_CH30_C", 
+  "RE+2_R2_CH30_B", 
+  "RE+2_R3_CH10_A", 
+  "RE+2_R3_CH10_B", 
+  "RE+2_R3_CH10_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S12_RB2in_HV": [
+  "W-2_RB2in_S12_Forward", 
+  "W-2_RB2in_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S12_RB3minus_HV": [
+  "W+1_RB3-_S12_Backward", 
+  "W+1_RB3-_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S03_RB1out_HV": [
+  "W+0_RB1out_S03_Forward", 
+  "W+0_RB1out_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S03_RB1out_HV": [
+  "W-2_RB1out_S03_Backward", 
+  "W-2_RB1out_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C31_EN3_R3_C35_HV": [
+  "RE-3_R2_CH31_C", 
+  "RE-3_R2_CH31_B", 
+  "RE-3_R2_CH31_A", 
+  "RE-3_R3_CH35_A", 
+  "RE-3_R3_CH35_B", 
+  "RE-3_R3_CH35_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C03_EN2_R2_C02_HV": [
+  "RE-2_R2_CH02_A", 
+  "RE-2_R2_CH02_B", 
+  "RE-2_R2_CH02_C", 
+  "RE-1_R2_CH03_B", 
+  "RE-1_R2_CH03_C", 
+  "RE-1_R2_CH03_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S08_RB4minus_HV": [
+  "W+0_RB4-_S08_Forward", 
+  "W+0_RB4-_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S11_RB1out_HV": [
+  "W-2_RB1out_S11_Forward", 
+  "W-2_RB1out_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C10_EN3_R3_C01_HV": [
+  "RE-3_R2_CH10_A", 
+  "RE-3_R2_CH10_B", 
+  "RE-3_R2_CH10_C", 
+  "RE-3_R3_CH01_A", 
+  "RE-3_R3_CH01_C", 
+  "RE-3_R3_CH01_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB3minus_HV": [
+  "W+2_RB3-_S04_Backward", 
+  "W+2_RB3-_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S02_RB1in_HV": [
+  "W-1_RB1in_S02_Backward", 
+  "W-1_RB1in_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S11_RB3plus_HV": [
+  "W+0_RB3+_S11_Forward", 
+  "W+0_RB3+_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C28_HV": [
+  "RE-4_R3_CH28_A", 
+  "RE-4_R3_CH28_C", 
+  "RE-4_R3_CH28_B", 
+  "RE-4_R2_CH28_B", 
+  "RE-4_R2_CH28_C", 
+  "RE-4_R2_CH28_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S05_RB2out_HV": [
+  "W+1_RB2out_S05_Forward", 
+  "W+1_RB2out_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB4minusminus_HV": [
+  "W-1_RB4--_S04_Forward", 
+  "W-1_RB4--_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C31_HV": [
+  "RE-4_R3_CH31_C", 
+  "RE-4_R3_CH31_B", 
+  "RE-4_R3_CH31_A", 
+  "RE-4_R2_CH31_A", 
+  "RE-4_R2_CH31_B", 
+  "RE-4_R2_CH31_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S02_RB4minus_HV": [
+  "W-1_RB4-_S02_Forward", 
+  "W-1_RB4-_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB3plus_HV": [
+  "W+1_RB3+_S04_Forward", 
+  "W+1_RB3+_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S01_RB3minus_HV": [
+  "W-1_RB3-_S01_Backward", 
+  "W-1_RB3-_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S01_RB3minus_HV": [
+  "W+2_RB3-_S01_Backward", 
+  "W+2_RB3-_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S08_RB3plus_HV": [
+  "W-1_RB3+_S08_Forward", 
+  "W-1_RB3+_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB4minusminus_HV": [
+  "W-2_RB4--_S04_Backward", 
+  "W-2_RB4--_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C32_EN3_R2_C07_HV": [
+  "RE-2_R2_CH32_A", 
+  "RE-2_R2_CH32_C", 
+  "RE-2_R2_CH32_B", 
+  "RE-3_R2_CH07_A", 
+  "RE-3_R2_CH07_B", 
+  "RE-3_R2_CH07_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S10_RB2out_HV": [
+  "W+2_RB2out_S10_Backward", 
+  "W+2_RB2out_S10_Forward", 
+  "W+2_RB2out_S10_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB4minusminus_HV": [
+  "W+0_RB4--_S04_Backward", 
+  "W+0_RB4--_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C20_HV": [
+  "RE+4_R3_CH20_C", 
+  "RE+4_R3_CH20_B", 
+  "RE+4_R3_CH20_A", 
+  "RE+4_R2_CH20_A", 
+  "RE+4_R2_CH20_B", 
+  "RE+4_R2_CH20_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S12_RB1in_HV": [
+  "W-2_RB1in_S12_Forward", 
+  "W-2_RB1in_S12_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C05_HV": [
+  "RE-4_R3_CH05_B", 
+  "RE-4_R3_CH05_C", 
+  "RE-4_R3_CH05_A", 
+  "RE-4_R2_CH05_A", 
+  "RE-4_R2_CH05_C", 
+  "RE-4_R2_CH05_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S09_RB4_HV": [
+  "W-1_RB4_S09_Backward", 
+  "W-1_RB4_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S11_RB3minus_HV": [
+  "W+2_RB3-_S11_Backward", 
+  "W+2_RB3-_S11_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C20_EN3_R3_C23_HV": [
+  "RE-3_R3_CH20_B", 
+  "RE-3_R3_CH20_C", 
+  "RE-3_R3_CH20_A", 
+  "RE-3_R3_CH23_A", 
+  "RE-3_R3_CH23_C", 
+  "RE-3_R3_CH23_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S07_RB1out_HV": [
+  "W+2_RB1out_S07_Forward", 
+  "W+2_RB1out_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S07_RB4plus_HV": [
+  "W-2_RB4+_S07_Forward", 
+  "W-2_RB4+_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S02_RB4plus_HV": [
+  "W-2_RB4+_S02_Forward", 
+  "W-2_RB4+_S02_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C32_HV": [
+  "RE-4_R3_CH32_A", 
+  "RE-4_R3_CH32_B", 
+  "RE-4_R3_CH32_C", 
+  "RE-4_R2_CH32_C", 
+  "RE-4_R2_CH32_B", 
+  "RE-4_R2_CH32_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C08_EN2_R2_C06_HV": [
+  "RE-2_R2_CH06_A", 
+  "RE-2_R2_CH06_B", 
+  "RE-2_R2_CH06_C", 
+  "RE-1_R3_CH08_B", 
+  "RE-1_R3_CH08_C", 
+  "RE-1_R3_CH08_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C25_HV": [
+  "RE+4_R3_CH25_B", 
+  "RE+4_R3_CH25_C", 
+  "RE+4_R3_CH25_A", 
+  "RE+4_R2_CH25_A", 
+  "RE+4_R2_CH25_C", 
+  "RE+4_R2_CH25_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S03_RB4plus_HV": [
+  "W+0_RB4+_S03_Backward", 
+  "W+0_RB4+_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C03_EP2_R3_C05_HV": [
+  "RE+2_R3_CH05_B", 
+  "RE+2_R3_CH05_C", 
+  "RE+2_R3_CH05_A", 
+  "RE+2_R2_CH03_C", 
+  "RE+2_R2_CH03_B", 
+  "RE+2_R2_CH03_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S07_RB4minus_HV": [
+  "W-2_RB4-_S07_Forward", 
+  "W-2_RB4-_S07_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C02_HV": [
+  "RE+4_R3_CH02_C", 
+  "RE+4_R3_CH02_B", 
+  "RE+4_R3_CH02_A", 
+  "RE+4_R2_CH02_A", 
+  "RE+4_R2_CH02_B", 
+  "RE+4_R2_CH02_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C21_EN2_R3_C19_HV": [
+  "RE-2_R3_CH19_C", 
+  "RE-2_R3_CH19_B", 
+  "RE-2_R3_CH19_A", 
+  "RE-1_R3_CH21_A", 
+  "RE-1_R3_CH21_C", 
+  "RE-1_R3_CH21_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S01_RB1out_HV": [
+  "W-2_RB1out_S01_Backward", 
+  "W-2_RB1out_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S08_RB1out_HV": [
+  "W-2_RB1out_S08_Backward", 
+  "W-2_RB1out_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S07_RB3plus_HV": [
+  "W+0_RB3+_S07_Backward", 
+  "W+0_RB3+_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S01_RB4plus_HV": [
+  "W+0_RB4+_S01_Forward", 
+  "W+0_RB4+_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S09_RB4_HV": [
+  "W-2_RB4_S09_Forward", 
+  "W-2_RB4_S09_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C22_EP1_R3_C23_HV": [
+  "RE+1_R3_CH23_A", 
+  "RE+1_R3_CH23_C", 
+  "RE+1_R3_CH23_B", 
+  "RE+1_R3_CH22_A", 
+  "RE+1_R3_CH22_B", 
+  "RE+1_R3_CH22_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C07_EP1_R2_C10_HV": [
+  "RE+1_R2_CH07_A", 
+  "RE+1_R2_CH07_B", 
+  "RE+1_R2_CH07_C", 
+  "RE+1_R2_CH10_A", 
+  "RE+1_R2_CH10_B", 
+  "RE+1_R2_CH10_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C27_EP3_R2_C17_HV": [
+  "RE+3_R2_CH17_A", 
+  "RE+3_R2_CH17_C", 
+  "RE+3_R2_CH17_B", 
+  "RE+2_R2_CH27_A", 
+  "RE+2_R2_CH27_C", 
+  "RE+2_R2_CH27_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S08_RB1in_HV": [
+  "W-1_RB1in_S08_Backward", 
+  "W-1_RB1in_S08_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C30_EP2_R2_C01_HV": [
+  "RE+1_R3_CH30_A", 
+  "RE+1_R3_CH30_C", 
+  "RE+1_R3_CH30_B", 
+  "RE+2_R2_CH01_A", 
+  "RE+2_R2_CH01_C", 
+  "RE+2_R2_CH01_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C36_EN3_R3_C09_HV": [
+  "RE-3_R2_CH36_A", 
+  "RE-3_R2_CH36_B", 
+  "RE-3_R2_CH36_C", 
+  "RE-3_R3_CH09_A", 
+  "RE-3_R3_CH09_C", 
+  "RE-3_R3_CH09_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C17_EN1_R3_C22_HV": [
+  "RE-1_R3_CH17_B", 
+  "RE-1_R3_CH17_C", 
+  "RE-1_R3_CH17_A", 
+  "RE-1_R3_CH22_B", 
+  "RE-1_R3_CH22_C", 
+  "RE-1_R3_CH22_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S08_RB4plus_HV": [
+  "W+1_RB4+_S08_Forward", 
+  "W+1_RB4+_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S12_RB2in_HV": [
+  "W+1_RB2in_S12_Backward", 
+  "W+1_RB2in_S12_Middle", 
+  "W+1_RB2in_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S05_RB3plus_HV": [
+  "W+0_RB3+_S05_Backward", 
+  "W+0_RB3+_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S10_RB4plus_HV": [
+  "W+0_RB4+_S10_Forward", 
+  "W+0_RB4+_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C28_EN3_R2_C27_HV": [
+  "RE-2_R3_CH28_C", 
+  "RE-2_R3_CH28_B", 
+  "RE-2_R3_CH28_A", 
+  "RE-3_R2_CH27_B", 
+  "RE-3_R2_CH27_C", 
+  "RE-3_R2_CH27_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S06_RB1out_HV": [
+  "W+2_RB1out_S06_Forward", 
+  "W+2_RB1out_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S05_RB3minus_HV": [
+  "W+2_RB3-_S05_Forward", 
+  "W+2_RB3-_S05_Backward"
+ ], 
+
+ "RPCUSBarrel/HV/RPC_WM1_S06_RB1in_HV": [
+  "W-1_RB1in_S06_Forward", 
+  "W-1_RB1in_S06_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C10_EN2_R3_C32_HV": [
+  "RE-2_R3_CH32_B", 
+  "RE-2_R3_CH32_C", 
+  "RE-2_R3_CH32_A", 
+  "RE-2_R3_CH10_B", 
+  "RE-2_R3_CH10_C", 
+  "RE-2_R3_CH10_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB2out_HV": [
+  "W+2_RB2out_S04_Middle", 
+  "W+2_RB2out_S04_Backward", 
+  "W+2_RB2out_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S02_RB2in_HV": [
+  "W+2_RB2in_S02_Forward", 
+  "W+2_RB2in_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S10_RB2in_HV": [
+  "W+0_RB2in_S10_Middle", 
+  "W+0_RB2in_S10_Backward", 
+  "W+0_RB2in_S10_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C19_EP3_R3_C19_HV": [
+  "RE+3_R2_CH19_C", 
+  "RE+3_R2_CH19_B", 
+  "RE+3_R2_CH19_A", 
+  "RE+3_R3_CH19_A", 
+  "RE+3_R3_CH19_B", 
+  "RE+3_R3_CH19_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C27_EP3_R3_C17_HV": [
+  "RE+3_R2_CH27_A", 
+  "RE+3_R2_CH27_B", 
+  "RE+3_R2_CH27_C", 
+  "RE+3_R3_CH17_B", 
+  "RE+3_R3_CH17_C", 
+  "RE+3_R3_CH17_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S12_RB3plus_HV": [
+  "W+2_RB3+_S12_Backward", 
+  "W+2_RB3+_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S10_RB4plus_HV": [
+  "W+2_RB4+_S10_Forward", 
+  "W+2_RB4+_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S08_RB2in_HV": [
+  "W-2_RB2in_S08_Forward", 
+  "W-2_RB2in_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C17_HV": [
+  "RE-3_R2_CH17_C", 
+  "RE-3_R2_CH17_B", 
+  "RE-3_R2_CH17_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C32_EP3_R2_C07_HV": [
+  "RE+3_R2_CH07_B", 
+  "RE+3_R2_CH07_C", 
+  "RE+3_R2_CH07_A", 
+  "RE+2_R3_CH32_A", 
+  "RE+2_R3_CH32_B", 
+  "RE+2_R3_CH32_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S07_RB4minus_HV": [
+  "W+1_RB4-_S07_Forward", 
+  "W+1_RB4-_S07_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C07_EN3_R3_C36_HV": [
+  "RE-3_R3_CH07_C", 
+  "RE-3_R3_CH07_B", 
+  "RE-3_R3_CH07_A", 
+  "RE-3_R3_CH36_C", 
+  "RE-3_R3_CH36_B", 
+  "RE-3_R3_CH36_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S07_RB4plus_HV": [
+  "W+2_RB4+_S07_Forward", 
+  "W+2_RB4+_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S05_RB4minus_HV": [
+  "W+2_RB4-_S05_Backward", 
+  "W+2_RB4-_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C12_EN2_R2_C12_HV": [
+  "RE-1_R2_CH12_A", 
+  "RE-1_R2_CH12_B", 
+  "RE-1_R2_CH12_C", 
+  "RE-2_R2_CH12_C", 
+  "RE-2_R2_CH12_B", 
+  "RE-2_R2_CH12_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S02_RB1out_HV": [
+  "W-2_RB1out_S02_Backward", 
+  "W-2_RB1out_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S05_RB2out_HV": [
+  "W-1_RB2out_S05_Backward", 
+  "W-1_RB2out_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S06_RB1in_HV": [
+  "W+0_RB1in_S06_Forward", 
+  "W+0_RB1in_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S06_RB1in_HV": [
+  "W+1_RB1in_S06_Backward", 
+  "W+1_RB1in_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S03_RB4minus_HV": [
+  "W+2_RB4-_S03_Backward", 
+  "W+2_RB4-_S03_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S01_RB1out_HV": [
+  "W+0_RB1out_S01_Forward", 
+  "W+0_RB1out_S01_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C29_HV": [
+  "RE+4_R3_CH29_B", 
+  "RE+4_R3_CH29_C", 
+  "RE+4_R3_CH29_A", 
+  "RE+4_R2_CH29_A", 
+  "RE+4_R2_CH29_C", 
+  "RE+4_R2_CH29_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S11_RB2out_HV": [
+  "W+2_RB2out_S11_Backward", 
+  "W+2_RB2out_S11_Middle", 
+  "W+2_RB2out_S11_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C27_HV": [
+  "RE-4_R3_CH27_B", 
+  "RE-4_R3_CH27_C", 
+  "RE-4_R3_CH27_A", 
+  "RE-4_R2_CH27_A", 
+  "RE-4_R2_CH27_C", 
+  "RE-4_R2_CH27_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C02_EN2_R2_C03_HV": [
+  "RE-2_R2_CH03_A", 
+  "RE-2_R2_CH03_C", 
+  "RE-2_R2_CH03_B", 
+  "RE-1_R3_CH02_A", 
+  "RE-1_R3_CH02_B", 
+  "RE-1_R3_CH02_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S07_RB1in_HV": [
+  "W-2_RB1in_S07_Backward", 
+  "W-2_RB1in_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S08_RB4plus_HV": [
+  "W+2_RB4+_S08_Forward", 
+  "W+2_RB4+_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S08_RB2out_HV": [
+  "W+0_RB2out_S08_Forward", 
+  "W+0_RB2out_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S12_RB2out_HV": [
+  "W-1_RB2out_S12_Forward", 
+  "W-1_RB2out_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S06_RB3minus_HV": [
+  "W-2_RB3-_S06_Backward", 
+  "W-2_RB3-_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S07_RB1in_HV": [
+  "W+1_RB1in_S07_Backward", 
+  "W+1_RB1in_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S01_RB4plus_HV": [
+  "W+1_RB4+_S01_Forward", 
+  "W+1_RB4+_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S02_RB3plus_HV": [
+  "W+0_RB3+_S02_Forward", 
+  "W+0_RB3+_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S06_RB2out_HV": [
+  "W+1_RB2out_S06_Forward", 
+  "W+1_RB2out_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB1in_HV": [
+  "W-2_RB1in_S04_Forward", 
+  "W-2_RB1in_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C28_EN3_R2_C15_HV": [
+  "RE-3_R2_CH15_A", 
+  "RE-3_R2_CH15_C", 
+  "RE-3_R2_CH15_B", 
+  "RE-2_R2_CH28_A", 
+  "RE-2_R2_CH28_B", 
+  "RE-2_R2_CH28_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C21_EP2_R3_C15_HV": [
+  "RE+1_R2_CH21_A", 
+  "RE+1_R2_CH21_B", 
+  "RE+1_R2_CH21_C", 
+  "RE+2_R3_CH15_A", 
+  "RE+2_R3_CH15_C", 
+  "RE+2_R3_CH15_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB3plus_HV": [
+  "W+2_RB3+_S04_Backward", 
+  "W+2_RB3+_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S01_RB4minus_HV": [
+  "W-1_RB4-_S01_Forward", 
+  "W-1_RB4-_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S06_RB3minus_HV": [
+  "W+0_RB3-_S06_Backward", 
+  "W+0_RB3-_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S01_RB3plus_HV": [
+  "W-1_RB3+_S01_Backward", 
+  "W-1_RB3+_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S05_RB3minus_HV": [
+  "W+0_RB3-_S05_Backward", 
+  "W+0_RB3-_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S10_RB4plus_HV": [
+  "W-2_RB4+_S10_Backward", 
+  "W-2_RB4+_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S01_RB4plus_HV": [
+  "W-1_RB4+_S01_Forward", 
+  "W-1_RB4+_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S09_RB1in_HV": [
+  "W-1_RB1in_S09_Backward", 
+  "W-1_RB1in_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S11_RB1in_HV": [
+  "W-1_RB1in_S11_Backward", 
+  "W-1_RB1in_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S05_RB3plus_HV": [
+  "W-2_RB3+_S05_Backward", 
+  "W-2_RB3+_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C30_EN3_R2_C35_HV": [
+  "RE-2_R3_CH30_A", 
+  "RE-2_R3_CH30_B", 
+  "RE-2_R3_CH30_C", 
+  "RE-3_R2_CH35_C", 
+  "RE-3_R2_CH35_B", 
+  "RE-3_R2_CH35_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S09_RB2out_HV": [
+  "W-1_RB2out_S09_Backward", 
+  "W-1_RB2out_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S03_RB4minus_HV": [
+  "W-1_RB4-_S03_Forward", 
+  "W-1_RB4-_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S07_RB1in_HV": [
+  "W+0_RB1in_S07_Backward", 
+  "W+0_RB1in_S07_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C28_EP3_R2_C13_HV": [
+  "RE+2_R3_CH28_A", 
+  "RE+2_R3_CH28_C", 
+  "RE+2_R3_CH28_B", 
+  "RE+3_R2_CH13_A", 
+  "RE+3_R2_CH13_C", 
+  "RE+3_R2_CH13_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C01_EN2_R2_C04_HV": [
+  "RE-2_R2_CH04_B", 
+  "RE-2_R2_CH04_C", 
+  "RE-2_R2_CH04_A", 
+  "RE-1_R2_CH01_A", 
+  "RE-1_R2_CH01_B", 
+  "RE-1_R2_CH01_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S01_RB2in_HV": [
+  "W+2_RB2in_S01_Backward", 
+  "W+2_RB2in_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S07_RB3minus_HV": [
+  "W+0_RB3-_S07_Backward", 
+  "W+0_RB3-_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S06_RB1out_HV": [
+  "W-1_RB1out_S06_Forward", 
+  "W-1_RB1out_S06_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C22_HV": [
+  "RE+4_R3_CH22_A", 
+  "RE+4_R3_CH22_C", 
+  "RE+4_R3_CH22_B", 
+  "RE+4_R2_CH22_B", 
+  "RE+4_R2_CH22_C", 
+  "RE+4_R2_CH22_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C04_HV": [
+  "RE-4_R2_CH04_A", 
+  "RE-4_R2_CH04_B", 
+  "RE-4_R2_CH04_C", 
+  "RE-4_R3_CH04_C", 
+  "RE-4_R3_CH04_B", 
+  "RE-4_R3_CH04_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S02_RB2in_HV": [
+  "W+1_RB2in_S02_Forward", 
+  "W+1_RB2in_S02_Backward", 
+  "W+1_RB2in_S02_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB4minus_HV": [
+  "W-2_RB4-_S04_Backward", 
+  "W-2_RB4-_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S12_RB3plus_HV": [
+  "W-2_RB3+_S12_Backward", 
+  "W-2_RB3+_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S07_RB3plus_HV": [
+  "W-1_RB3+_S07_Forward", 
+  "W-1_RB3+_S07_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C23_EN2_R2_C24_HV": [
+  "RE-2_R2_CH24_A", 
+  "RE-2_R2_CH24_B", 
+  "RE-2_R2_CH24_C", 
+  "RE-2_R2_CH23_C", 
+  "RE-2_R2_CH23_B", 
+  "RE-2_R2_CH23_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C19_EN1_R2_C20_HV": [
+  "RE-1_R2_CH19_C", 
+  "RE-1_R2_CH19_B", 
+  "RE-1_R2_CH19_A", 
+  "RE-1_R2_CH20_C", 
+  "RE-1_R2_CH20_B", 
+  "RE-1_R2_CH20_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB4minus_HV": [
+  "W+1_RB4-_S04_Backward", 
+  "W+1_RB4-_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C21_EN2_R2_C22_HV": [
+  "RE-2_R2_CH22_B", 
+  "RE-2_R2_CH22_C", 
+  "RE-2_R2_CH22_A", 
+  "RE-2_R2_CH21_A", 
+  "RE-2_R2_CH21_C", 
+  "RE-2_R2_CH21_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S06_RB4plus_HV": [
+  "W+0_RB4+_S06_Forward", 
+  "W+0_RB4+_S06_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C29_EN2_R2_C08_HV": [
+  "RE-1_R2_CH29_B", 
+  "RE-1_R2_CH29_C", 
+  "RE-1_R2_CH29_A", 
+  "RE-2_R2_CH08_B", 
+  "RE-2_R2_CH08_C", 
+  "RE-2_R2_CH08_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S02_RB3minus_HV": [
+  "W+2_RB3-_S02_Forward", 
+  "W+2_RB3-_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S02_RB3plus_HV": [
+  "W-1_RB3+_S02_Backward", 
+  "W-1_RB3+_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S10_RB4minus_HV": [
+  "W+2_RB4-_S10_Forward", 
+  "W+2_RB4-_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S02_RB1in_HV": [
+  "W+0_RB1in_S02_Backward", 
+  "W+0_RB1in_S02_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C11_EP3_R2_C16_HV": [
+  "RE+3_R2_CH16_A", 
+  "RE+3_R2_CH16_B", 
+  "RE+3_R2_CH16_C", 
+  "RE+3_R2_CH11_C", 
+  "RE+3_R2_CH11_B", 
+  "RE+3_R2_CH11_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C11_HV": [
+  "RE-4_R3_CH11_A", 
+  "RE-4_R3_CH11_C", 
+  "RE-4_R3_CH11_B", 
+  "RE-4_R2_CH11_B", 
+  "RE-4_R2_CH11_C", 
+  "RE-4_R2_CH11_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C16_EN2_R2_C19_HV": [
+  "RE-1_R2_CH16_A", 
+  "RE-1_R2_CH16_B", 
+  "RE-1_R2_CH16_C", 
+  "RE-2_R2_CH19_A", 
+  "RE-2_R2_CH19_B", 
+  "RE-2_R2_CH19_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C30_EN2_R2_C34_HV": [
+  "RE-2_R2_CH34_C", 
+  "RE-2_R2_CH34_B", 
+  "RE-2_R2_CH34_A", 
+  "RE-2_R2_CH30_C", 
+  "RE-2_R2_CH30_B", 
+  "RE-2_R2_CH30_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C29_EN2_R2_C33_HV": [
+  "RE-2_R2_CH29_A", 
+  "RE-2_R2_CH29_C", 
+  "RE-2_R2_CH29_B", 
+  "RE-2_R2_CH33_A", 
+  "RE-2_R2_CH33_B", 
+  "RE-2_R2_CH33_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C34_EP1_R3_C02_HV": [
+  "RE+1_R2_CH34_B", 
+  "RE+1_R2_CH34_C", 
+  "RE+1_R2_CH34_A", 
+  "RE+1_R3_CH02_B", 
+  "RE+1_R3_CH02_C", 
+  "RE+1_R3_CH02_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C25_EN3_R2_C11_HV": [
+  "RE-3_R2_CH11_A", 
+  "RE-3_R2_CH11_C", 
+  "RE-3_R2_CH11_B", 
+  "RE-2_R2_CH25_A", 
+  "RE-2_R2_CH25_C", 
+  "RE-2_R2_CH25_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S01_RB1in_HV": [
+  "W+0_RB1in_S01_Backward", 
+  "W+0_RB1in_S01_Forward"
+ ], 
+
+ "RPCUSEndcap/HV/RPC_EN2_R3_C15_EN2_R3_C18_HV": [
+  "RE-2_R3_CH15_C", 
+  "RE-2_R3_CH15_B", 
+  "RE-2_R3_CH15_A", 
+  "RE-2_R3_CH18_B", 
+  "RE-2_R3_CH18_C", 
+  "RE-2_R3_CH18_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S06_RB1out_HV": [
+  "W+0_RB1out_S06_Backward", 
+  "W+0_RB1out_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S10_RB3minus_HV": [
+  "W-1_RB3-_S10_Backward", 
+  "W-1_RB3-_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S11_RB1in_HV": [
+  "W+0_RB1in_S11_Forward", 
+  "W+0_RB1in_S11_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S09_RB3plus_HV": [
+  "W+2_RB3+_S09_Backward", 
+  "W+2_RB3+_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S06_RB4minus_HV": [
+  "W+0_RB4-_S06_Forward", 
+  "W+0_RB4-_S06_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C14_HV": [
+  "RE+4_R3_CH14_B", 
+  "RE+4_R3_CH14_C", 
+  "RE+4_R3_CH14_A", 
+  "RE+4_R2_CH14_A", 
+  "RE+4_R2_CH14_C", 
+  "RE+4_R2_CH14_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C27_EP2_R2_C13_HV": [
+  "RE+2_R2_CH13_A", 
+  "RE+2_R2_CH13_B", 
+  "RE+2_R2_CH13_C", 
+  "RE+1_R2_CH27_B", 
+  "RE+1_R2_CH27_C", 
+  "RE+1_R2_CH27_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R3_C33_EP3_R3_C36_HV": [
+  "RE+3_R3_CH36_A", 
+  "RE+3_R3_CH36_C", 
+  "RE+3_R3_CH36_B", 
+  "RE+3_R3_CH33_A", 
+  "RE+3_R3_CH33_B", 
+  "RE+3_R3_CH33_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C08_HV": [
+  "RE+4_R3_CH08_A", 
+  "RE+4_R3_CH08_C", 
+  "RE+4_R3_CH08_B", 
+  "RE+4_R2_CH08_B", 
+  "RE+4_R2_CH08_C", 
+  "RE+4_R2_CH08_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C36_EN3_R3_C32_HV": [
+  "RE-3_R3_CH32_C", 
+  "RE-3_R3_CH32_B", 
+  "RE-3_R3_CH32_A", 
+  "RE-2_R3_CH36_B", 
+  "RE-2_R3_CH36_C", 
+  "RE-2_R3_CH36_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C04_EP3_R2_C32_HV": [
+  "RE+3_R2_CH04_A", 
+  "RE+3_R2_CH04_C", 
+  "RE+3_R2_CH04_B", 
+  "RE+3_R2_CH32_B", 
+  "RE+3_R2_CH32_C", 
+  "RE+3_R2_CH32_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S12_RB3minus_HV": [
+  "W-2_RB3-_S12_Backward", 
+  "W-2_RB3-_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S07_RB2out_HV": [
+  "W+1_RB2out_S07_Backward", 
+  "W+1_RB2out_S07_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C04_HV": [
+  "RE+1_R3_CH04_A", 
+  "RE+1_R3_CH04_B", 
+  "RE+1_R3_CH04_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C15_EP3_R3_C15_HV": [
+  "RE+3_R3_CH15_A", 
+  "RE+3_R3_CH15_B", 
+  "RE+3_R3_CH15_C", 
+  "RE+3_R2_CH15_C", 
+  "RE+3_R2_CH15_B", 
+  "RE+3_R2_CH15_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S07_RB3minus_HV": [
+  "W+1_RB3-_S07_Forward", 
+  "W+1_RB3-_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S12_RB4minus_HV": [
+  "W+2_RB4-_S12_Backward", 
+  "W+2_RB4-_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S09_RB1in_HV": [
+  "W-2_RB1in_S09_Forward", 
+  "W-2_RB1in_S09_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S10_RB1out_HV": [
+  "W+2_RB1out_S10_Backward", 
+  "W+2_RB1out_S10_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C35_EP2_R3_C03_HV": [
+  "RE+1_R3_CH35_A", 
+  "RE+1_R3_CH35_B", 
+  "RE+1_R3_CH35_C", 
+  "RE+2_R3_CH03_A", 
+  "RE+2_R3_CH03_B", 
+  "RE+2_R3_CH03_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S05_RB3plus_HV": [
+  "W-1_RB3+_S05_Forward", 
+  "W-1_RB3+_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S12_RB4plus_HV": [
+  "W+0_RB4+_S12_Backward", 
+  "W+0_RB4+_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S12_RB4minus_HV": [
+  "W-1_RB4-_S12_Backward", 
+  "W-1_RB4-_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S01_RB2in_HV": [
+  "W-2_RB2in_S01_Backward", 
+  "W-2_RB2in_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S03_RB1in_HV": [
+  "W-2_RB1in_S03_Forward", 
+  "W-2_RB1in_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S06_RB3minus_HV": [
+  "W-1_RB3-_S06_Forward", 
+  "W-1_RB3-_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S10_RB3minus_HV": [
+  "W-2_RB3-_S10_Forward", 
+  "W-2_RB3-_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C34_EN3_R3_C33_HV": [
+  "RE-3_R3_CH33_B", 
+  "RE-3_R3_CH33_C", 
+  "RE-3_R3_CH33_A", 
+  "RE-3_R2_CH34_B", 
+  "RE-3_R2_CH34_C", 
+  "RE-3_R2_CH34_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S08_RB3minus_HV": [
+  "W+1_RB3-_S08_Backward", 
+  "W+1_RB3-_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S12_RB4plus_HV": [
+  "W+2_RB4+_S12_Backward", 
+  "W+2_RB4+_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S06_RB3plus_HV": [
+  "W-2_RB3+_S06_Backward", 
+  "W-2_RB3+_S06_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C17_EN2_R3_C11_HV": [
+  "RE-2_R3_CH11_C", 
+  "RE-2_R3_CH11_B", 
+  "RE-2_R3_CH11_A", 
+  "RE-2_R2_CH17_B", 
+  "RE-2_R2_CH17_C", 
+  "RE-2_R2_CH17_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S09_RB1in_HV": [
+  "W+2_RB1in_S09_Backward", 
+  "W+2_RB1in_S09_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C06_EP2_R2_C08_HV": [
+  "RE+2_R2_CH08_A", 
+  "RE+2_R2_CH08_B", 
+  "RE+2_R2_CH08_C", 
+  "RE+2_R2_CH06_B", 
+  "RE+2_R2_CH06_C", 
+  "RE+2_R2_CH06_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB1out_HV": [
+  "W+0_RB1out_S04_Forward", 
+  "W+0_RB1out_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S06_RB1out_HV": [
+  "W+1_RB1out_S06_Forward", 
+  "W+1_RB1out_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S07_RB3plus_HV": [
+  "W+1_RB3+_S07_Forward", 
+  "W+1_RB3+_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S02_RB3minus_HV": [
+  "W-1_RB3-_S02_Backward", 
+  "W-1_RB3-_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S05_RB1in_HV": [
+  "W-1_RB1in_S05_Forward", 
+  "W-1_RB1in_S05_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C23_EP2_R3_C16_HV": [
+  "RE+1_R2_CH23_B", 
+  "RE+1_R2_CH23_C", 
+  "RE+1_R2_CH23_A", 
+  "RE+2_R3_CH16_B", 
+  "RE+2_R3_CH16_C", 
+  "RE+2_R3_CH16_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S12_RB3minus_HV": [
+  "W+2_RB3-_S12_Backward", 
+  "W+2_RB3-_S12_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C14_EP3_R2_C24_HV": [
+  "RE+3_R2_CH24_C", 
+  "RE+3_R2_CH24_B", 
+  "RE+3_R2_CH24_A", 
+  "RE+3_R2_CH14_B", 
+  "RE+3_R2_CH14_C", 
+  "RE+3_R2_CH14_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C12_EP1_R3_C11_HV": [
+  "RE+1_R3_CH11_B", 
+  "RE+1_R3_CH11_C", 
+  "RE+1_R3_CH11_A", 
+  "RE+1_R2_CH12_B", 
+  "RE+1_R2_CH12_C", 
+  "RE+1_R2_CH12_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S01_RB3plus_HV": [
+  "W-2_RB3+_S01_Forward", 
+  "W-2_RB3+_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S06_RB4plus_HV": [
+  "W-2_RB4+_S06_Backward", 
+  "W-2_RB4+_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S06_RB2out_HV": [
+  "W-1_RB2out_S06_Forward", 
+  "W-1_RB2out_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S02_RB2in_HV": [
+  "W-2_RB2in_S02_Backward", 
+  "W-2_RB2in_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S07_RB3minus_HV": [
+  "W+2_RB3-_S07_Backward", 
+  "W+2_RB3-_S07_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C24_EP2_R3_C25_HV": [
+  "RE+2_R3_CH25_A", 
+  "RE+2_R3_CH25_B", 
+  "RE+2_R3_CH25_C", 
+  "RE+2_R2_CH24_B", 
+  "RE+2_R2_CH24_C", 
+  "RE+2_R2_CH24_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S10_RB1out_HV": [
+  "W+0_RB1out_S10_Forward", 
+  "W+0_RB1out_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S10_RB3plus_HV": [
+  "W-2_RB3+_S10_Forward", 
+  "W-2_RB3+_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S05_RB1in_HV": [
+  "W+2_RB1in_S05_Forward", 
+  "W+2_RB1in_S05_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C33_HV": [
+  "RE+1_R3_CH33_B", 
+  "RE+1_R3_CH33_C", 
+  "RE+1_R3_CH33_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S02_RB2out_HV": [
+  "W+2_RB2out_S02_Middle", 
+  "W+2_RB2out_S02_Backward", 
+  "W+2_RB2out_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S08_RB3plus_HV": [
+  "W+2_RB3+_S08_Forward", 
+  "W+2_RB3+_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C30_EN1_R3_C32_HV": [
+  "RE-1_R3_CH30_C", 
+  "RE-1_R3_CH30_B", 
+  "RE-1_R3_CH30_A", 
+  "RE-1_R3_CH32_A", 
+  "RE-1_R3_CH32_C", 
+  "RE-1_R3_CH32_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C34_HV": [
+  "RE-4_R2_CH34_A", 
+  "RE-4_R2_CH34_C", 
+  "RE-4_R2_CH34_B", 
+  "RE-4_R3_CH34_B", 
+  "RE-4_R3_CH34_C", 
+  "RE-4_R3_CH34_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB1out_HV": [
+  "W+1_RB1out_S04_Backward", 
+  "W+1_RB1out_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C23_EN1_R2_C27_HV": [
+  "RE-1_R2_CH23_A", 
+  "RE-1_R2_CH23_B", 
+  "RE-1_R2_CH23_C", 
+  "RE-1_R2_CH27_A", 
+  "RE-1_R2_CH27_B", 
+  "RE-1_R2_CH27_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S02_RB3minus_HV": [
+  "W+0_RB3-_S02_Forward", 
+  "W+0_RB3-_S02_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C31_HV": [
+  "RE-1_R3_CH31_B", 
+  "RE-1_R3_CH31_C", 
+  "RE-1_R3_CH31_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S05_RB2in_HV": [
+  "W-2_RB2in_S05_Forward", 
+  "W-2_RB2in_S05_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C34_EP2_R3_C34_HV": [
+  "RE+2_R2_CH34_A", 
+  "RE+2_R2_CH34_C", 
+  "RE+2_R2_CH34_B", 
+  "RE+2_R3_CH34_B", 
+  "RE+2_R3_CH34_C", 
+  "RE+2_R3_CH34_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C06_EP2_R3_C07_HV": [
+  "RE+2_R3_CH07_A", 
+  "RE+2_R3_CH07_B", 
+  "RE+2_R3_CH07_C", 
+  "RE+1_R3_CH06_B", 
+  "RE+1_R3_CH06_C", 
+  "RE+1_R3_CH06_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S11_RB4_HV": [
+  "W+0_RB4_S11_Forward", 
+  "W+0_RB4_S11_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S05_RB2out_HV": [
+  "W-2_RB2out_S05_Forward", 
+  "W-2_RB2out_S05_Backward", 
+  "W-2_RB2out_S05_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S02_RB3minus_HV": [
+  "W+1_RB3-_S02_Forward", 
+  "W+1_RB3-_S02_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C06_EN2_R2_C01_HV": [
+  "RE-2_R2_CH01_C", 
+  "RE-2_R2_CH01_B", 
+  "RE-2_R2_CH01_A", 
+  "RE-1_R2_CH06_C", 
+  "RE-1_R2_CH06_B", 
+  "RE-1_R2_CH06_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S07_RB1out_HV": [
+  "W+0_RB1out_S07_Backward", 
+  "W+0_RB1out_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S06_RB3plus_HV": [
+  "W+0_RB3+_S06_Backward", 
+  "W+0_RB3+_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S10_RB1out_HV": [
+  "W-2_RB1out_S10_Backward", 
+  "W-2_RB1out_S10_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C29_EN1_R3_C35_HV": [
+  "RE-1_R3_CH29_A", 
+  "RE-1_R3_CH29_C", 
+  "RE-1_R3_CH29_B", 
+  "RE-1_R3_CH35_B", 
+  "RE-1_R3_CH35_C", 
+  "RE-1_R3_CH35_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C13_HV": [
+  "RE+4_R3_CH13_A", 
+  "RE+4_R3_CH13_C", 
+  "RE+4_R3_CH13_B", 
+  "RE+4_R2_CH13_B", 
+  "RE+4_R2_CH13_C", 
+  "RE+4_R2_CH13_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C14_EN3_R2_C21_HV": [
+  "RE-3_R2_CH14_A", 
+  "RE-3_R2_CH14_B", 
+  "RE-3_R2_CH14_C", 
+  "RE-3_R2_CH21_A", 
+  "RE-3_R2_CH21_B", 
+  "RE-3_R2_CH21_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S07_RB2in_HV": [
+  "W+1_RB2in_S07_Forward", 
+  "W+1_RB2in_S07_Middle", 
+  "W+1_RB2in_S07_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C35_EP3_R2_C33_HV": [
+  "RE+2_R3_CH35_C", 
+  "RE+2_R3_CH35_B", 
+  "RE+2_R3_CH35_A", 
+  "RE+3_R2_CH33_C", 
+  "RE+3_R2_CH33_B", 
+  "RE+3_R2_CH33_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB4minus_HV": [
+  "W-1_RB4-_S04_Forward", 
+  "W-1_RB4-_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C15_EP1_R3_C28_HV": [
+  "RE+1_R3_CH15_B", 
+  "RE+1_R3_CH15_C", 
+  "RE+1_R3_CH15_A", 
+  "RE+1_R3_CH28_B", 
+  "RE+1_R3_CH28_C", 
+  "RE+1_R3_CH28_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C19_HV": [
+  "RE+4_R3_CH19_C", 
+  "RE+4_R3_CH19_B", 
+  "RE+4_R3_CH19_A", 
+  "RE+4_R2_CH19_A", 
+  "RE+4_R2_CH19_B", 
+  "RE+4_R2_CH19_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S11_RB2in_HV": [
+  "W+2_RB2in_S11_Backward", 
+  "W+2_RB2in_S11_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C04_EP2_R2_C04_HV": [
+  "RE+1_R2_CH04_C", 
+  "RE+1_R2_CH04_B", 
+  "RE+1_R2_CH04_A", 
+  "RE+2_R2_CH04_A", 
+  "RE+2_R2_CH04_B", 
+  "RE+2_R2_CH04_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C31_EP3_R3_C04_HV": [
+  "RE+3_R3_CH04_B", 
+  "RE+3_R3_CH04_C", 
+  "RE+3_R3_CH04_A", 
+  "RE+2_R3_CH31_C", 
+  "RE+2_R3_CH31_B", 
+  "RE+2_R3_CH31_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C21_EN1_R3_C13_HV": [
+  "RE-1_R3_CH13_B", 
+  "RE-1_R3_CH13_C", 
+  "RE-1_R3_CH13_A", 
+  "RE-1_R2_CH21_B", 
+  "RE-1_R2_CH21_C", 
+  "RE-1_R2_CH21_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C22_EP3_R3_C23_HV": [
+  "RE+3_R3_CH23_C", 
+  "RE+3_R3_CH23_B", 
+  "RE+3_R3_CH23_A", 
+  "RE+3_R2_CH22_A", 
+  "RE+3_R2_CH22_C", 
+  "RE+3_R2_CH22_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C15_HV": [
+  "RE-4_R3_CH15_A", 
+  "RE-4_R3_CH15_C", 
+  "RE-4_R3_CH15_B", 
+  "RE-4_R2_CH15_B", 
+  "RE-4_R2_CH15_C", 
+  "RE-4_R2_CH15_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C19_HV": [
+  "RE-4_R3_CH19_A", 
+  "RE-4_R3_CH19_C", 
+  "RE-4_R3_CH19_B", 
+  "RE-4_R2_CH19_B", 
+  "RE-4_R2_CH19_C", 
+  "RE-4_R2_CH19_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S03_RB3plus_HV": [
+  "W+2_RB3+_S03_Forward", 
+  "W+2_RB3+_S03_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R3_C06_EP3_R3_C09_HV": [
+  "RE+3_R3_CH06_A", 
+  "RE+3_R3_CH06_B", 
+  "RE+3_R3_CH06_C", 
+  "RE+3_R3_CH09_C", 
+  "RE+3_R3_CH09_B", 
+  "RE+3_R3_CH09_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C19_EN2_R2_C15_HV": [
+  "RE-2_R2_CH15_A", 
+  "RE-2_R2_CH15_B", 
+  "RE-2_R2_CH15_C", 
+  "RE-1_R3_CH19_A", 
+  "RE-1_R3_CH19_B", 
+  "RE-1_R3_CH19_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C36_HV": [
+  "RE-4_R2_CH36_C", 
+  "RE-4_R2_CH36_B", 
+  "RE-4_R2_CH36_A", 
+  "RE-4_R3_CH36_A", 
+  "RE-4_R3_CH36_B", 
+  "RE-4_R3_CH36_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C23_EN1_R3_C28_HV": [
+  "RE-1_R3_CH28_A", 
+  "RE-1_R3_CH28_B", 
+  "RE-1_R3_CH28_C", 
+  "RE-1_R3_CH23_C", 
+  "RE-1_R3_CH23_B", 
+  "RE-1_R3_CH23_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB4plus_HV": [
+  "W+0_RB4+_S04_Backward", 
+  "W+0_RB4+_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C30_EN3_R3_C31_HV": [
+  "RE-3_R3_CH31_A", 
+  "RE-3_R3_CH31_B", 
+  "RE-3_R3_CH31_C", 
+  "RE-3_R2_CH30_B", 
+  "RE-3_R2_CH30_C", 
+  "RE-3_R2_CH30_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S06_RB2out_HV": [
+  "W+2_RB2out_S06_Forward", 
+  "W+2_RB2out_S06_Middle", 
+  "W+2_RB2out_S06_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C12_HV": [
+  "RE-4_R3_CH12_B", 
+  "RE-4_R3_CH12_C", 
+  "RE-4_R3_CH12_A", 
+  "RE-4_R2_CH12_A", 
+  "RE-4_R2_CH12_C", 
+  "RE-4_R2_CH12_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S03_RB1in_HV": [
+  "W+2_RB1in_S03_Backward", 
+  "W+2_RB1in_S03_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S05_RB1out_HV": [
+  "W+1_RB1out_S05_Forward", 
+  "W+1_RB1out_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S12_RB1out_HV": [
+  "W-1_RB1out_S12_Forward", 
+  "W-1_RB1out_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S07_RB1out_HV": [
+  "W-2_RB1out_S07_Backward", 
+  "W-2_RB1out_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S07_RB2out_HV": [
+  "W-2_RB2out_S07_Forward", 
+  "W-2_RB2out_S07_Backward", 
+  "W-2_RB2out_S07_Middle"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C26_HV": [
+  "RE+4_R3_CH26_A", 
+  "RE+4_R3_CH26_C", 
+  "RE+4_R3_CH26_B", 
+  "RE+4_R2_CH26_B", 
+  "RE+4_R2_CH26_C", 
+  "RE+4_R2_CH26_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C14_EN1_R2_C22_HV": [
+  "RE-1_R2_CH14_B", 
+  "RE-1_R2_CH14_C", 
+  "RE-1_R2_CH14_A", 
+  "RE-1_R2_CH22_A", 
+  "RE-1_R2_CH22_C", 
+  "RE-1_R2_CH22_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S09_RB1out_HV": [
+  "W+1_RB1out_S09_Forward", 
+  "W+1_RB1out_S09_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S05_RB1out_HV": [
+  "W+2_RB1out_S05_Forward", 
+  "W+2_RB1out_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S12_RB2in_HV": [
+  "W-1_RB2in_S12_Forward", 
+  "W-1_RB2in_S12_Backward", 
+  "W-1_RB2in_S12_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S05_RB3minus_HV": [
+  "W-2_RB3-_S05_Backward", 
+  "W-2_RB3-_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C11_EP2_R2_C12_HV": [
+  "RE+2_R2_CH11_B", 
+  "RE+2_R2_CH11_C", 
+  "RE+2_R2_CH11_A", 
+  "RE+2_R2_CH12_A", 
+  "RE+2_R2_CH12_C", 
+  "RE+2_R2_CH12_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C24_EP3_R3_C12_HV": [
+  "RE+3_R3_CH12_C", 
+  "RE+3_R3_CH12_B", 
+  "RE+3_R3_CH12_A", 
+  "RE+2_R3_CH24_A", 
+  "RE+2_R3_CH24_C", 
+  "RE+2_R3_CH24_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C07_EN1_R3_C09_HV": [
+  "RE-1_R3_CH09_C", 
+  "RE-1_R3_CH09_B", 
+  "RE-1_R3_CH09_A", 
+  "RE-1_R3_CH07_A", 
+  "RE-1_R3_CH07_C", 
+  "RE-1_R3_CH07_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C22_EN3_R2_C12_HV": [
+  "RE-3_R2_CH12_B", 
+  "RE-3_R2_CH12_C", 
+  "RE-3_R2_CH12_A", 
+  "RE-2_R3_CH22_A", 
+  "RE-2_R3_CH22_C", 
+  "RE-2_R3_CH22_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S08_RB2in_HV": [
+  "W+2_RB2in_S08_Forward", 
+  "W+2_RB2in_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S09_RB1out_HV": [
+  "W-2_RB1out_S09_Forward", 
+  "W-2_RB1out_S09_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S01_RB2out_HV": [
+  "W-2_RB2out_S01_Backward", 
+  "W-2_RB2out_S01_Middle", 
+  "W-2_RB2out_S01_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C02_EN1_R3_C01_HV": [
+  "RE-1_R3_CH01_C", 
+  "RE-1_R3_CH01_B", 
+  "RE-1_R3_CH01_A", 
+  "RE-1_R2_CH02_C", 
+  "RE-1_R2_CH02_B", 
+  "RE-1_R2_CH02_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C17_HV": [
+  "RE-4_R2_CH17_A", 
+  "RE-4_R2_CH17_B", 
+  "RE-4_R2_CH17_C", 
+  "RE-4_R3_CH17_C", 
+  "RE-4_R3_CH17_B", 
+  "RE-4_R3_CH17_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C20_EP2_R2_C26_HV": [
+  "RE+2_R2_CH26_A", 
+  "RE+2_R2_CH26_B", 
+  "RE+2_R2_CH26_C", 
+  "RE+2_R2_CH20_B", 
+  "RE+2_R2_CH20_C", 
+  "RE+2_R2_CH20_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S08_RB4minus_HV": [
+  "W-1_RB4-_S08_Backward", 
+  "W-1_RB4-_S08_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C02_EP3_R3_C03_HV": [
+  "RE+3_R3_CH03_A", 
+  "RE+3_R3_CH03_C", 
+  "RE+3_R3_CH03_B", 
+  "RE+3_R2_CH02_C", 
+  "RE+3_R2_CH02_B", 
+  "RE+3_R2_CH02_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S01_RB1out_HV": [
+  "W-1_RB1out_S01_Backward", 
+  "W-1_RB1out_S01_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C16_HV": [
+  "RE+4_R3_CH16_A", 
+  "RE+4_R3_CH16_B", 
+  "RE+4_R3_CH16_C", 
+  "RE+4_R2_CH16_C", 
+  "RE+4_R2_CH16_B", 
+  "RE+4_R2_CH16_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C29_EP2_R3_C02_HV": [
+  "RE+2_R3_CH02_A", 
+  "RE+2_R3_CH02_C", 
+  "RE+2_R3_CH02_B", 
+  "RE+1_R3_CH29_C", 
+  "RE+1_R3_CH29_B", 
+  "RE+1_R3_CH29_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S12_RB3minus_HV": [
+  "W+0_RB3-_S12_Forward", 
+  "W+0_RB3-_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S12_RB1out_HV": [
+  "W+2_RB1out_S12_Forward", 
+  "W+2_RB1out_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S05_RB3plus_HV": [
+  "W+2_RB3+_S05_Forward", 
+  "W+2_RB3+_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S07_RB2in_HV": [
+  "W+0_RB2in_S07_Backward", 
+  "W+0_RB2in_S07_Middle", 
+  "W+0_RB2in_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB3minus_HV": [
+  "W+0_RB3-_S04_Forward", 
+  "W+0_RB3-_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S10_RB2in_HV": [
+  "W+1_RB2in_S10_Backward", 
+  "W+1_RB2in_S10_Middle", 
+  "W+1_RB2in_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S07_RB2in_HV": [
+  "W-1_RB2in_S07_Middle", 
+  "W-1_RB2in_S07_Backward", 
+  "W-1_RB2in_S07_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C25_EN1_R3_C26_HV": [
+  "RE-1_R3_CH25_A", 
+  "RE-1_R3_CH25_C", 
+  "RE-1_R3_CH25_B", 
+  "RE-1_R3_CH26_B", 
+  "RE-1_R3_CH26_C", 
+  "RE-1_R3_CH26_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C26_EN3_R3_C12_HV": [
+  "RE-3_R3_CH12_A", 
+  "RE-3_R3_CH12_C", 
+  "RE-3_R3_CH12_B", 
+  "RE-3_R2_CH26_C", 
+  "RE-3_R2_CH26_B", 
+  "RE-3_R2_CH26_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S07_RB4plus_HV": [
+  "W+1_RB4+_S07_Forward", 
+  "W+1_RB4+_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S12_RB1in_HV": [
+  "W+1_RB1in_S12_Backward", 
+  "W+1_RB1in_S12_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C01_EP1_R2_C03_HV": [
+  "RE+1_R2_CH01_B", 
+  "RE+1_R2_CH01_C", 
+  "RE+1_R2_CH01_A", 
+  "RE+1_R2_CH03_A", 
+  "RE+1_R2_CH03_B", 
+  "RE+1_R2_CH03_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S12_RB2out_HV": [
+  "W+0_RB2out_S12_Backward", 
+  "W+0_RB2out_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S10_RB3minus_HV": [
+  "W+1_RB3-_S10_Backward", 
+  "W+1_RB3-_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S07_RB2in_HV": [
+  "W-2_RB2in_S07_Backward", 
+  "W-2_RB2in_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB2out_HV": [
+  "W-2_RB2out_S04_Middle", 
+  "W-2_RB2out_S04_Backward", 
+  "W-2_RB2out_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C33_EN2_R3_C07_HV": [
+  "RE-1_R2_CH33_C", 
+  "RE-1_R2_CH33_B", 
+  "RE-1_R2_CH33_A", 
+  "RE-2_R3_CH07_B", 
+  "RE-2_R3_CH07_C", 
+  "RE-2_R3_CH07_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S01_RB3minus_HV": [
+  "W+0_RB3-_S01_Forward", 
+  "W+0_RB3-_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S11_RB2in_HV": [
+  "W+1_RB2in_S11_Forward", 
+  "W+1_RB2in_S11_Backward", 
+  "W+1_RB2in_S11_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB4minus_HV": [
+  "W+0_RB4-_S04_Backward", 
+  "W+0_RB4-_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C30_EP1_R3_C10_HV": [
+  "RE+1_R2_CH30_B", 
+  "RE+1_R2_CH30_C", 
+  "RE+1_R2_CH30_A", 
+  "RE+1_R3_CH10_C", 
+  "RE+1_R3_CH10_B", 
+  "RE+1_R3_CH10_A"
+ ], 
+
+ "RPCUSBarrel/HV/RPC_WM2_S08_RB1in_HV": [
+  "W-2_RB1in_S08_Backward", 
+  "W-2_RB1in_S08_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C36_EP1_R3_C09_HV": [
+  "RE+1_R2_CH36_A", 
+  "RE+1_R2_CH36_B", 
+  "RE+1_R2_CH36_C", 
+  "RE+1_R3_CH09_A", 
+  "RE+1_R3_CH09_C", 
+  "RE+1_R3_CH09_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C23_EP3_R2_C26_HV": [
+  "RE+2_R3_CH23_B", 
+  "RE+2_R3_CH23_C", 
+  "RE+2_R3_CH23_A", 
+  "RE+3_R2_CH26_A", 
+  "RE+3_R2_CH26_C", 
+  "RE+3_R2_CH26_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C20_EN3_R2_C20_HV": [
+  "RE-3_R2_CH20_A", 
+  "RE-3_R2_CH20_C", 
+  "RE-3_R2_CH20_B", 
+  "RE-2_R2_CH20_A", 
+  "RE-2_R2_CH20_B", 
+  "RE-2_R2_CH20_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C36_EN1_R3_C06_HV": [
+  "RE-1_R2_CH36_B", 
+  "RE-1_R2_CH36_C", 
+  "RE-1_R2_CH36_A", 
+  "RE-1_R3_CH06_A", 
+  "RE-1_R3_CH06_B", 
+  "RE-1_R3_CH06_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C16_EP2_R3_C14_HV": [
+  "RE+1_R3_CH16_A", 
+  "RE+1_R3_CH16_C", 
+  "RE+1_R3_CH16_B", 
+  "RE+2_R3_CH14_A", 
+  "RE+2_R3_CH14_B", 
+  "RE+2_R3_CH14_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C20_EN3_R3_C26_HV": [
+  "RE-2_R3_CH20_C", 
+  "RE-2_R3_CH20_B", 
+  "RE-2_R3_CH20_A", 
+  "RE-3_R3_CH26_A", 
+  "RE-3_R3_CH26_B", 
+  "RE-3_R3_CH26_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C06_HV": [
+  "RE-4_R3_CH06_A", 
+  "RE-4_R3_CH06_C", 
+  "RE-4_R3_CH06_B", 
+  "RE-4_R2_CH06_B", 
+  "RE-4_R2_CH06_C", 
+  "RE-4_R2_CH06_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB4plusplus_HV": [
+  "W-1_RB4++_S04_Forward", 
+  "W-1_RB4++_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S12_RB4plus_HV": [
+  "W+1_RB4+_S12_Backward", 
+  "W+1_RB4+_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S01_RB2out_HV": [
+  "W-1_RB2out_S01_Forward", 
+  "W-1_RB2out_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S02_RB1in_HV": [
+  "W-2_RB1in_S02_Forward", 
+  "W-2_RB1in_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S12_RB4plus_HV": [
+  "W-2_RB4+_S12_Forward", 
+  "W-2_RB4+_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S12_RB1out_HV": [
+  "W+1_RB1out_S12_Forward", 
+  "W+1_RB1out_S12_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C02_EP2_R2_C02_HV": [
+  "RE+1_R2_CH02_A", 
+  "RE+1_R2_CH02_C", 
+  "RE+1_R2_CH02_B", 
+  "RE+2_R2_CH02_B", 
+  "RE+2_R2_CH02_C", 
+  "RE+2_R2_CH02_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB4plus_HV": [
+  "W+2_RB4+_S04_Backward", 
+  "W+2_RB4+_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C09_HV": [
+  "RE+4_R3_CH09_A", 
+  "RE+4_R3_CH09_B", 
+  "RE+4_R3_CH09_C", 
+  "RE+4_R2_CH09_C", 
+  "RE+4_R2_CH09_B", 
+  "RE+4_R2_CH09_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C36_EN2_R3_C03_HV": [
+  "RE-2_R3_CH03_B", 
+  "RE-2_R3_CH03_C", 
+  "RE-2_R3_CH03_A", 
+  "RE-1_R3_CH36_A", 
+  "RE-1_R3_CH36_C", 
+  "RE-1_R3_CH36_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S03_RB4minus_HV": [
+  "W+0_RB4-_S03_Backward", 
+  "W+0_RB4-_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C17_EP2_R3_C18_HV": [
+  "RE+2_R3_CH17_C", 
+  "RE+2_R3_CH17_B", 
+  "RE+2_R3_CH17_A", 
+  "RE+2_R3_CH18_A", 
+  "RE+2_R3_CH18_B", 
+  "RE+2_R3_CH18_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S12_RB3plus_HV": [
+  "W+0_RB3+_S12_Forward", 
+  "W+0_RB3+_S12_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C30_EP3_R2_C36_HV": [
+  "RE+3_R2_CH36_B", 
+  "RE+3_R2_CH36_C", 
+  "RE+3_R2_CH36_A", 
+  "RE+3_R2_CH30_A", 
+  "RE+3_R2_CH30_B", 
+  "RE+3_R2_CH30_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB4minusminus_HV": [
+  "W+1_RB4--_S04_Backward", 
+  "W+1_RB4--_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C15_HV": [
+  "RE+4_R3_CH15_C", 
+  "RE+4_R3_CH15_B", 
+  "RE+4_R3_CH15_A", 
+  "RE+4_R2_CH15_A", 
+  "RE+4_R2_CH15_B", 
+  "RE+4_R2_CH15_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S10_RB1out_HV": [
+  "W-1_RB1out_S10_Backward", 
+  "W-1_RB1out_S10_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C29_EN2_R3_C35_HV": [
+  "RE-2_R3_CH29_B", 
+  "RE-2_R3_CH29_C", 
+  "RE-2_R3_CH29_A", 
+  "RE-2_R3_CH35_A", 
+  "RE-2_R3_CH35_C", 
+  "RE-2_R3_CH35_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S11_RB1out_HV": [
+  "W-1_RB1out_S11_Backward", 
+  "W-1_RB1out_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB2in_HV": [
+  "W-2_RB2in_S04_Forward", 
+  "W-2_RB2in_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S10_RB3plus_HV": [
+  "W+1_RB3+_S10_Backward", 
+  "W+1_RB3+_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S02_RB4minus_HV": [
+  "W+1_RB4-_S02_Backward", 
+  "W+1_RB4-_S02_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C03_HV": [
+  "RE+4_R3_CH03_B", 
+  "RE+4_R3_CH03_C", 
+  "RE+4_R3_CH03_A", 
+  "RE+4_R2_CH03_A", 
+  "RE+4_R2_CH03_C", 
+  "RE+4_R2_CH03_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S02_RB4minus_HV": [
+  "W+2_RB4-_S02_Backward", 
+  "W+2_RB4-_S02_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C14_EP1_R3_C12_HV": [
+  "RE+1_R3_CH12_A", 
+  "RE+1_R3_CH12_C", 
+  "RE+1_R3_CH12_B", 
+  "RE+1_R2_CH14_A", 
+  "RE+1_R2_CH14_B", 
+  "RE+1_R2_CH14_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C03_EN3_R2_C33_HV": [
+  "RE-3_R2_CH33_A", 
+  "RE-3_R2_CH33_C", 
+  "RE-3_R2_CH33_B", 
+  "RE-3_R2_CH03_A", 
+  "RE-3_R2_CH03_B", 
+  "RE-3_R2_CH03_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S12_RB1out_HV": [
+  "W+0_RB1out_S12_Forward", 
+  "W+0_RB1out_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S07_RB1in_HV": [
+  "W+2_RB1in_S07_Forward", 
+  "W+2_RB1in_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S03_RB4plus_HV": [
+  "W+2_RB4+_S03_Backward", 
+  "W+2_RB4+_S03_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S05_RB1in_HV": [
+  "W+1_RB1in_S05_Forward", 
+  "W+1_RB1in_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S03_RB2out_HV": [
+  "W+2_RB2out_S03_Forward", 
+  "W+2_RB2out_S03_Backward", 
+  "W+2_RB2out_S03_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S08_RB1out_HV": [
+  "W+0_RB1out_S08_Backward", 
+  "W+0_RB1out_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S02_RB2out_HV": [
+  "W-1_RB2out_S02_Backward", 
+  "W-1_RB2out_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S02_RB3plus_HV": [
+  "W-2_RB3+_S02_Backward", 
+  "W-2_RB3+_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S08_RB1in_HV": [
+  "W+0_RB1in_S08_Backward", 
+  "W+0_RB1in_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S02_RB2in_HV": [
+  "W+0_RB2in_S02_Forward", 
+  "W+0_RB2in_S02_Middle", 
+  "W+0_RB2in_S02_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C21_EP3_R2_C21_HV": [
+  "RE+2_R3_CH21_A", 
+  "RE+2_R3_CH21_B", 
+  "RE+2_R3_CH21_C", 
+  "RE+3_R2_CH21_B", 
+  "RE+3_R2_CH21_C", 
+  "RE+3_R2_CH21_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S02_RB2out_HV": [
+  "W-2_RB2out_S02_Middle", 
+  "W-2_RB2out_S02_Backward", 
+  "W-2_RB2out_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S10_RB1in_HV": [
+  "W-2_RB1in_S10_Forward", 
+  "W-2_RB1in_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C20_HV": [
+  "RE-4_R3_CH20_A", 
+  "RE-4_R3_CH20_C", 
+  "RE-4_R3_CH20_B", 
+  "RE-4_R2_CH20_B", 
+  "RE-4_R2_CH20_C", 
+  "RE-4_R2_CH20_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S10_RB2in_HV": [
+  "W-2_RB2in_S10_Backward", 
+  "W-2_RB2in_S10_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C08_HV": [
+  "RE-4_R3_CH08_C", 
+  "RE-4_R3_CH08_B", 
+  "RE-4_R3_CH08_A", 
+  "RE-4_R2_CH08_A", 
+  "RE-4_R2_CH08_B", 
+  "RE-4_R2_CH08_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB4minusminus_HV": [
+  "W+2_RB4--_S04_Forward", 
+  "W+2_RB4--_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C06_HV": [
+  "RE+4_R3_CH06_C", 
+  "RE+4_R3_CH06_B", 
+  "RE+4_R3_CH06_A", 
+  "RE+4_R2_CH06_A", 
+  "RE+4_R2_CH06_B", 
+  "RE+4_R2_CH06_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C36_EP3_R2_C35_HV": [
+  "RE+2_R2_CH36_C", 
+  "RE+2_R2_CH36_B", 
+  "RE+2_R2_CH36_A", 
+  "RE+3_R2_CH35_A", 
+  "RE+3_R2_CH35_C", 
+  "RE+3_R2_CH35_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S08_RB4minus_HV": [
+  "W-2_RB4-_S08_Backward", 
+  "W-2_RB4-_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S05_RB4minus_HV": [
+  "W+1_RB4-_S05_Backward", 
+  "W+1_RB4-_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S03_RB2in_HV": [
+  "W-2_RB2in_S03_Forward", 
+  "W-2_RB2in_S03_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C07_EN1_R2_C09_HV": [
+  "RE-1_R2_CH07_B", 
+  "RE-1_R2_CH07_C", 
+  "RE-1_R2_CH07_A", 
+  "RE-1_R2_CH09_A", 
+  "RE-1_R2_CH09_B", 
+  "RE-1_R2_CH09_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S11_RB3plus_HV": [
+  "W+1_RB3+_S11_Forward", 
+  "W+1_RB3+_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C29_EN3_R3_C34_HV": [
+  "RE-3_R3_CH34_A", 
+  "RE-3_R3_CH34_C", 
+  "RE-3_R3_CH34_B", 
+  "RE-3_R2_CH29_A", 
+  "RE-3_R2_CH29_B", 
+  "RE-3_R2_CH29_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S02_RB3minus_HV": [
+  "W-2_RB3-_S02_Backward", 
+  "W-2_RB3-_S02_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C11_EP1_R2_C15_HV": [
+  "RE+1_R2_CH11_A", 
+  "RE+1_R2_CH11_C", 
+  "RE+1_R2_CH11_B", 
+  "RE+1_R2_CH15_A", 
+  "RE+1_R2_CH15_C", 
+  "RE+1_R2_CH15_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S09_RB2in_HV": [
+  "W-1_RB2in_S09_Forward", 
+  "W-1_RB2in_S09_Middle", 
+  "W-1_RB2in_S09_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S03_RB1out_HV": [
+  "W+2_RB1out_S03_Forward", 
+  "W+2_RB1out_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S10_RB3plus_HV": [
+  "W+0_RB3+_S10_Forward", 
+  "W+0_RB3+_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S10_RB2out_HV": [
+  "W-2_RB2out_S10_Backward", 
+  "W-2_RB2out_S10_Middle", 
+  "W-2_RB2out_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S09_RB3plus_HV": [
+  "W-1_RB3+_S09_Backward", 
+  "W-1_RB3+_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S08_RB3minus_HV": [
+  "W-1_RB3-_S08_Forward", 
+  "W-1_RB3-_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S06_RB1in_HV": [
+  "W-2_RB1in_S06_Backward", 
+  "W-2_RB1in_S06_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C13_EP1_R3_C17_HV": [
+  "RE+1_R3_CH13_A", 
+  "RE+1_R3_CH13_B", 
+  "RE+1_R3_CH13_C", 
+  "RE+1_R3_CH17_A", 
+  "RE+1_R3_CH17_B", 
+  "RE+1_R3_CH17_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S12_RB4minus_HV": [
+  "W-2_RB4-_S12_Forward", 
+  "W-2_RB4-_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S11_RB3minus_HV": [
+  "W+0_RB3-_S11_Forward", 
+  "W+0_RB3-_S11_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S10_RB1in_HV": [
+  "W+1_RB1in_S10_Forward", 
+  "W+1_RB1in_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C28_EP2_R3_C20_HV": [
+  "RE+2_R2_CH28_B", 
+  "RE+2_R2_CH28_C", 
+  "RE+2_R2_CH28_A", 
+  "RE+2_R3_CH20_A", 
+  "RE+2_R3_CH20_C", 
+  "RE+2_R3_CH20_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C34_EP3_R3_C29_HV": [
+  "RE+3_R3_CH29_A", 
+  "RE+3_R3_CH29_C", 
+  "RE+3_R3_CH29_B", 
+  "RE+3_R2_CH34_A", 
+  "RE+3_R2_CH34_B", 
+  "RE+3_R2_CH34_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C33_HV": [
+  "RE+4_R2_CH33_A", 
+  "RE+4_R2_CH33_B", 
+  "RE+4_R2_CH33_C", 
+  "RE+4_R3_CH33_C", 
+  "RE+4_R3_CH33_B", 
+  "RE+4_R3_CH33_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S01_RB2in_HV": [
+  "W+0_RB2in_S01_Forward", 
+  "W+0_RB2in_S01_Backward", 
+  "W+0_RB2in_S01_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S09_RB2out_HV": [
+  "W+2_RB2out_S09_Forward", 
+  "W+2_RB2out_S09_Backward", 
+  "W+2_RB2out_S09_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S10_RB3plus_HV": [
+  "W-1_RB3+_S10_Backward", 
+  "W-1_RB3+_S10_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C34_HV": [
+  "RE+4_R2_CH34_C", 
+  "RE+4_R2_CH34_B", 
+  "RE+4_R2_CH34_A", 
+  "RE+4_R3_CH34_A", 
+  "RE+4_R3_CH34_B", 
+  "RE+4_R3_CH34_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S01_RB2in_HV": [
+  "W-1_RB2in_S01_Middle", 
+  "W-1_RB2in_S01_Backward", 
+  "W-1_RB2in_S01_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C22_EP3_R2_C12_HV": [
+  "RE+2_R3_CH22_C", 
+  "RE+2_R3_CH22_B", 
+  "RE+2_R3_CH22_A", 
+  "RE+3_R2_CH12_A", 
+  "RE+3_R2_CH12_B", 
+  "RE+3_R2_CH12_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S12_RB1in_HV": [
+  "W-1_RB1in_S12_Forward", 
+  "W-1_RB1in_S12_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C30_HV": [
+  "RE-4_R3_CH30_B", 
+  "RE-4_R3_CH30_C", 
+  "RE-4_R3_CH30_A", 
+  "RE-4_R2_CH30_A", 
+  "RE-4_R2_CH30_C", 
+  "RE-4_R2_CH30_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S11_RB1out_HV": [
+  "W+1_RB1out_S11_Backward", 
+  "W+1_RB1out_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S01_RB3plus_HV": [
+  "W+2_RB3+_S01_Backward", 
+  "W+2_RB3+_S01_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C07_HV": [
+  "RE+4_R3_CH07_B", 
+  "RE+4_R3_CH07_C", 
+  "RE+4_R3_CH07_A", 
+  "RE+4_R2_CH07_A", 
+  "RE+4_R2_CH07_C", 
+  "RE+4_R2_CH07_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB4plus_HV": [
+  "W-2_RB4+_S04_Forward", 
+  "W-2_RB4+_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S02_RB1in_HV": [
+  "W+1_RB1in_S02_Forward", 
+  "W+1_RB1in_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S12_RB2in_HV": [
+  "W+2_RB2in_S12_Backward", 
+  "W+2_RB2in_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S11_RB3minus_HV": [
+  "W-2_RB3-_S11_Forward", 
+  "W-2_RB3-_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C31_EN2_R3_C34_HV": [
+  "RE-2_R3_CH34_A", 
+  "RE-2_R3_CH34_B", 
+  "RE-2_R3_CH34_C", 
+  "RE-2_R3_CH31_A", 
+  "RE-2_R3_CH31_C", 
+  "RE-2_R3_CH31_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S03_RB4minus_HV": [
+  "W+1_RB4-_S03_Backward", 
+  "W+1_RB4-_S03_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S12_RB2out_HV": [
+  "W+2_RB2out_S12_Middle", 
+  "W+2_RB2out_S12_Forward", 
+  "W+2_RB2out_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S05_RB1out_HV": [
+  "W-1_RB1out_S05_Forward", 
+  "W-1_RB1out_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S06_RB2in_HV": [
+  "W-1_RB2in_S06_Backward", 
+  "W-1_RB2in_S06_Middle", 
+  "W-1_RB2in_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S02_RB1out_HV": [
+  "W+0_RB1out_S02_Forward", 
+  "W+0_RB1out_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S10_RB1in_HV": [
+  "W+0_RB1in_S10_Forward", 
+  "W+0_RB1in_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C04_EN3_R2_C08_HV": [
+  "RE-3_R2_CH08_C", 
+  "RE-3_R2_CH08_B", 
+  "RE-3_R2_CH08_A", 
+  "RE-3_R2_CH04_C", 
+  "RE-3_R2_CH04_B", 
+  "RE-3_R2_CH04_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S03_RB4minus_HV": [
+  "W-2_RB4-_S03_Forward", 
+  "W-2_RB4-_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S01_RB4plus_HV": [
+  "W+2_RB4+_S01_Forward", 
+  "W+2_RB4+_S01_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C09_EP1_R2_C32_HV": [
+  "RE+1_R2_CH32_A", 
+  "RE+1_R2_CH32_B", 
+  "RE+1_R2_CH32_C", 
+  "RE+1_R2_CH09_B", 
+  "RE+1_R2_CH09_C", 
+  "RE+1_R2_CH09_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S08_RB4plus_HV": [
+  "W-2_RB4+_S08_Backward", 
+  "W-2_RB4+_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB3plus_HV": [
+  "W-1_RB3+_S04_Backward", 
+  "W-1_RB3+_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S09_RB4_HV": [
+  "W+0_RB4_S09_Forward", 
+  "W+0_RB4_S09_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S03_RB2out_HV": [
+  "W+0_RB2out_S03_Forward", 
+  "W+0_RB2out_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S06_RB3plus_HV": [
+  "W+1_RB3+_S06_Backward", 
+  "W+1_RB3+_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S05_RB2in_HV": [
+  "W+0_RB2in_S05_Backward", 
+  "W+0_RB2in_S05_Middle", 
+  "W+0_RB2in_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R3_C18_EP3_R3_C20_HV": [
+  "RE+3_R3_CH18_A", 
+  "RE+3_R3_CH18_C", 
+  "RE+3_R3_CH18_B", 
+  "RE+3_R3_CH20_A", 
+  "RE+3_R3_CH20_B", 
+  "RE+3_R3_CH20_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S06_RB2in_HV": [
+  "W+0_RB2in_S06_Middle", 
+  "W+0_RB2in_S06_Forward", 
+  "W+0_RB2in_S06_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C18_EN2_R2_C11_HV": [
+  "RE-2_R2_CH11_A", 
+  "RE-2_R2_CH11_B", 
+  "RE-2_R2_CH11_C", 
+  "RE-1_R2_CH18_B", 
+  "RE-1_R2_CH18_C", 
+  "RE-1_R2_CH18_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S06_RB3plus_HV": [
+  "W-1_RB3+_S06_Forward", 
+  "W-1_RB3+_S06_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C32_HV": [
+  "RE+4_R2_CH32_A", 
+  "RE+4_R2_CH32_C", 
+  "RE+4_R2_CH32_B", 
+  "RE+4_R3_CH32_B", 
+  "RE+4_R3_CH32_C", 
+  "RE+4_R3_CH32_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S03_RB2out_HV": [
+  "W+1_RB2out_S03_Forward", 
+  "W+1_RB2out_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S08_RB4plus_HV": [
+  "W-1_RB4+_S08_Backward", 
+  "W-1_RB4+_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S01_RB3plus_HV": [
+  "W+1_RB3+_S01_Backward", 
+  "W+1_RB3+_S01_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C04_EN1_R2_C30_HV": [
+  "RE-1_R2_CH30_A", 
+  "RE-1_R2_CH30_B", 
+  "RE-1_R2_CH30_C", 
+  "RE-1_R2_CH04_A", 
+  "RE-1_R2_CH04_C", 
+  "RE-1_R2_CH04_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S10_RB4minus_HV": [
+  "W+1_RB4-_S10_Backward", 
+  "W+1_RB4-_S10_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C24_EN1_R3_C20_HV": [
+  "RE-1_R2_CH24_C", 
+  "RE-1_R2_CH24_B", 
+  "RE-1_R2_CH24_A", 
+  "RE-1_R3_CH20_A", 
+  "RE-1_R3_CH20_B", 
+  "RE-1_R3_CH20_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S05_RB1in_HV": [
+  "W+0_RB1in_S05_Forward", 
+  "W+0_RB1in_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S11_RB1out_HV": [
+  "W+0_RB1out_S11_Forward", 
+  "W+0_RB1out_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C23_EN3_R2_C13_HV": [
+  "RE-3_R2_CH13_C", 
+  "RE-3_R2_CH13_B", 
+  "RE-3_R2_CH13_A", 
+  "RE-2_R3_CH23_A", 
+  "RE-2_R3_CH23_B", 
+  "RE-2_R3_CH23_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R3_C02_EP3_R3_C31_HV": [
+  "RE+3_R3_CH02_A", 
+  "RE+3_R3_CH02_B", 
+  "RE+3_R3_CH02_C", 
+  "RE+3_R3_CH31_B", 
+  "RE+3_R3_CH31_C", 
+  "RE+3_R3_CH31_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C25_EN3_R3_C15_HV": [
+  "RE-3_R3_CH15_B", 
+  "RE-3_R3_CH15_C", 
+  "RE-3_R3_CH15_A", 
+  "RE-3_R2_CH25_A", 
+  "RE-3_R2_CH25_B", 
+  "RE-3_R2_CH25_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S01_RB1in_HV": [
+  "W-2_RB1in_S01_Forward", 
+  "W-2_RB1in_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB4plusplus_HV": [
+  "W+0_RB4++_S04_Backward", 
+  "W+0_RB4++_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C33_HV": [
+  "RE+2_R3_CH33_A", 
+  "RE+2_R3_CH33_C", 
+  "RE+2_R3_CH33_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S10_RB2in_HV": [
+  "W+2_RB2in_S10_Forward", 
+  "W+2_RB2in_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S01_RB3plus_HV": [
+  "W+0_RB3+_S01_Forward", 
+  "W+0_RB3+_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S08_RB1in_HV": [
+  "W+2_RB1in_S08_Backward", 
+  "W+2_RB1in_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S07_RB2out_HV": [
+  "W+2_RB2out_S07_Backward", 
+  "W+2_RB2out_S07_Middle", 
+  "W+2_RB2out_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S02_RB2in_HV": [
+  "W-1_RB2in_S02_Forward", 
+  "W-1_RB2in_S02_Backward", 
+  "W-1_RB2in_S02_Middle"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C31_EP2_R2_C32_HV": [
+  "RE+2_R2_CH32_C", 
+  "RE+2_R2_CH32_B", 
+  "RE+2_R2_CH32_A", 
+  "RE+2_R2_CH31_A", 
+  "RE+2_R2_CH31_B", 
+  "RE+2_R2_CH31_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C03_HV": [
+  "RE-4_R3_CH03_A", 
+  "RE-4_R3_CH03_B", 
+  "RE-4_R3_CH03_C", 
+  "RE-4_R2_CH03_C", 
+  "RE-4_R2_CH03_B", 
+  "RE-4_R2_CH03_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C26_EN2_R3_C13_HV": [
+  "RE-1_R2_CH26_A", 
+  "RE-1_R2_CH26_C", 
+  "RE-1_R2_CH26_B", 
+  "RE-2_R3_CH13_A", 
+  "RE-2_R3_CH13_C", 
+  "RE-2_R3_CH13_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C17_EN3_R3_C28_HV": [
+  "RE-3_R3_CH17_A", 
+  "RE-3_R3_CH17_B", 
+  "RE-3_R3_CH17_C", 
+  "RE-3_R3_CH28_B", 
+  "RE-3_R3_CH28_C", 
+  "RE-3_R3_CH28_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C11_EN1_R2_C13_HV": [
+  "RE-1_R2_CH11_C", 
+  "RE-1_R2_CH11_B", 
+  "RE-1_R2_CH11_A", 
+  "RE-1_R2_CH13_A", 
+  "RE-1_R2_CH13_C", 
+  "RE-1_R2_CH13_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S07_RB3plus_HV": [
+  "W-2_RB3+_S07_Forward", 
+  "W-2_RB3+_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S05_RB2in_HV": [
+  "W+2_RB2in_S05_Forward", 
+  "W+2_RB2in_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S08_RB2out_HV": [
+  "W+2_RB2out_S08_Forward", 
+  "W+2_RB2out_S08_Middle", 
+  "W+2_RB2out_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C15_EN1_R3_C27_HV": [
+  "RE-1_R3_CH15_A", 
+  "RE-1_R3_CH15_B", 
+  "RE-1_R3_CH15_C", 
+  "RE-1_R3_CH27_C", 
+  "RE-1_R3_CH27_B", 
+  "RE-1_R3_CH27_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S03_RB1in_HV": [
+  "W+1_RB1in_S03_Forward", 
+  "W+1_RB1in_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S05_RB3minus_HV": [
+  "W+1_RB3-_S05_Backward", 
+  "W+1_RB3-_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S01_RB2out_HV": [
+  "W+0_RB2out_S01_Backward", 
+  "W+0_RB2out_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S03_RB2out_HV": [
+  "W-2_RB2out_S03_Backward", 
+  "W-2_RB2out_S03_Middle", 
+  "W-2_RB2out_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C21_EN2_R3_C27_HV": [
+  "RE-2_R3_CH27_A", 
+  "RE-2_R3_CH27_B", 
+  "RE-2_R3_CH27_C", 
+  "RE-2_R3_CH21_B", 
+  "RE-2_R3_CH21_C", 
+  "RE-2_R3_CH21_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S09_RB3plus_HV": [
+  "W+1_RB3+_S09_Backward", 
+  "W+1_RB3+_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S10_RB4minus_HV": [
+  "W+0_RB4-_S10_Backward", 
+  "W+0_RB4-_S10_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C24_HV": [
+  "RE+4_R3_CH24_C", 
+  "RE+4_R3_CH24_B", 
+  "RE+4_R3_CH24_A", 
+  "RE+4_R2_CH24_A", 
+  "RE+4_R2_CH24_B", 
+  "RE+4_R2_CH24_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S12_RB1out_HV": [
+  "W-2_RB1out_S12_Forward", 
+  "W-2_RB1out_S12_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S02_RB2out_HV": [
+  "W+0_RB2out_S02_Forward", 
+  "W+0_RB2out_S02_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C03_EN1_R3_C05_HV": [
+  "RE-1_R3_CH05_C", 
+  "RE-1_R3_CH05_B", 
+  "RE-1_R3_CH05_A", 
+  "RE-1_R3_CH03_A", 
+  "RE-1_R3_CH03_C", 
+  "RE-1_R3_CH03_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S07_RB3minus_HV": [
+  "W-2_RB3-_S07_Forward", 
+  "W-2_RB3-_S07_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C23_HV": [
+  "RE-4_R3_CH23_B", 
+  "RE-4_R3_CH23_C", 
+  "RE-4_R3_CH23_A", 
+  "RE-4_R2_CH23_A", 
+  "RE-4_R2_CH23_C", 
+  "RE-4_R2_CH23_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S12_RB4minus_HV": [
+  "W+1_RB4-_S12_Backward", 
+  "W+1_RB4-_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S07_RB1out_HV": [
+  "W+1_RB1out_S07_Backward", 
+  "W+1_RB1out_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S03_RB3plus_HV": [
+  "W-2_RB3+_S03_Backward", 
+  "W-2_RB3+_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C29_EP1_R3_C31_HV": [
+  "RE+1_R2_CH29_A", 
+  "RE+1_R2_CH29_B", 
+  "RE+1_R2_CH29_C", 
+  "RE+1_R3_CH31_A", 
+  "RE+1_R3_CH31_B", 
+  "RE+1_R3_CH31_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S01_RB4minus_HV": [
+  "W+1_RB4-_S01_Forward", 
+  "W+1_RB4-_S01_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C22_HV": [
+  "RE-3_R3_CH22_A", 
+  "RE-3_R3_CH22_B", 
+  "RE-3_R3_CH22_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S05_RB4minus_HV": [
+  "W+0_RB4-_S05_Backward", 
+  "W+0_RB4-_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C27_HV": [
+  "RE+4_R3_CH27_A", 
+  "RE+4_R3_CH27_B", 
+  "RE+4_R3_CH27_C", 
+  "RE+4_R2_CH27_C", 
+  "RE+4_R2_CH27_B", 
+  "RE+4_R2_CH27_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C35_EP2_R3_C09_HV": [
+  "RE+1_R2_CH35_C", 
+  "RE+1_R2_CH35_B", 
+  "RE+1_R2_CH35_A", 
+  "RE+2_R3_CH09_B", 
+  "RE+2_R3_CH09_C", 
+  "RE+2_R3_CH09_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C10_EN2_R2_C36_HV": [
+  "RE-2_R2_CH36_A", 
+  "RE-2_R2_CH36_C", 
+  "RE-2_R2_CH36_B", 
+  "RE-2_R2_CH10_A", 
+  "RE-2_R2_CH10_C", 
+  "RE-2_R2_CH10_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S06_RB2out_HV": [
+  "W-2_RB2out_S06_Forward", 
+  "W-2_RB2out_S06_Middle", 
+  "W-2_RB2out_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S10_RB4plus_HV": [
+  "W+1_RB4+_S10_Forward", 
+  "W+1_RB4+_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C25_EN2_R3_C26_HV": [
+  "RE-2_R3_CH25_B", 
+  "RE-2_R3_CH25_C", 
+  "RE-2_R3_CH25_A", 
+  "RE-2_R3_CH26_A", 
+  "RE-2_R3_CH26_C", 
+  "RE-2_R3_CH26_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S05_RB4minus_HV": [
+  "W-2_RB4-_S05_Forward", 
+  "W-2_RB4-_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S03_RB3minus_HV": [
+  "W-1_RB3-_S03_Backward", 
+  "W-1_RB3-_S03_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S11_RB2out_HV": [
+  "W-2_RB2out_S11_Backward", 
+  "W-2_RB2out_S11_Middle", 
+  "W-2_RB2out_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S07_RB4plus_HV": [
+  "W+0_RB4+_S07_Forward", 
+  "W+0_RB4+_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S09_RB4_HV": [
+  "W+1_RB4_S09_Forward", 
+  "W+1_RB4_S09_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C02_HV": [
+  "RE-4_R3_CH02_A", 
+  "RE-4_R3_CH02_C", 
+  "RE-4_R3_CH02_B", 
+  "RE-4_R2_CH02_B", 
+  "RE-4_R2_CH02_C", 
+  "RE-4_R2_CH02_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S10_RB3plus_HV": [
+  "W+2_RB3+_S10_Forward", 
+  "W+2_RB3+_S10_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C29_HV": [
+  "RE-4_R2_CH29_C", 
+  "RE-4_R2_CH29_B", 
+  "RE-4_R2_CH29_A", 
+  "RE-4_R3_CH29_A", 
+  "RE-4_R3_CH29_B", 
+  "RE-4_R3_CH29_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S07_RB3minus_HV": [
+  "W-1_RB3-_S07_Forward", 
+  "W-1_RB3-_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S03_RB4plus_HV": [
+  "W-2_RB4+_S03_Forward", 
+  "W-2_RB4+_S03_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C10_EN1_R3_C34_HV": [
+  "RE-1_R2_CH10_B", 
+  "RE-1_R2_CH10_C", 
+  "RE-1_R2_CH10_A", 
+  "RE-1_R3_CH34_C", 
+  "RE-1_R3_CH34_B", 
+  "RE-1_R3_CH34_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB2in_HV": [
+  "W+2_RB2in_S04_Backward", 
+  "W+2_RB2in_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S06_RB4minus_HV": [
+  "W+2_RB4-_S06_Forward", 
+  "W+2_RB4-_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S08_RB2in_HV": [
+  "W+1_RB2in_S08_Backward", 
+  "W+1_RB2in_S08_Middle", 
+  "W+1_RB2in_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S08_RB4minus_HV": [
+  "W+2_RB4-_S08_Forward", 
+  "W+2_RB4-_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB1in_HV": [
+  "W+0_RB1in_S04_Forward", 
+  "W+0_RB1in_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S12_RB2in_HV": [
+  "W+0_RB2in_S12_Middle", 
+  "W+0_RB2in_S12_Backward", 
+  "W+0_RB2in_S12_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C14_EN2_R2_C18_HV": [
+  "RE-2_R2_CH14_A", 
+  "RE-2_R2_CH14_C", 
+  "RE-2_R2_CH14_B", 
+  "RE-2_R2_CH18_A", 
+  "RE-2_R2_CH18_C", 
+  "RE-2_R2_CH18_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C20_EP3_R2_C25_HV": [
+  "RE+3_R2_CH25_B", 
+  "RE+3_R2_CH25_C", 
+  "RE+3_R2_CH25_A", 
+  "RE+3_R2_CH20_C", 
+  "RE+3_R2_CH20_B", 
+  "RE+3_R2_CH20_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S12_RB3minus_HV": [
+  "W-1_RB3-_S12_Backward", 
+  "W-1_RB3-_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S10_RB1out_HV": [
+  "W+1_RB1out_S10_Forward", 
+  "W+1_RB1out_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S09_RB2in_HV": [
+  "W-2_RB2in_S09_Backward", 
+  "W-2_RB2in_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S01_RB4minus_HV": [
+  "W+2_RB4-_S01_Forward", 
+  "W+2_RB4-_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB2out_HV": [
+  "W+0_RB2out_S04_Backward", 
+  "W+0_RB2out_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S05_RB4plus_HV": [
+  "W+0_RB4+_S05_Backward", 
+  "W+0_RB4+_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S09_RB3plus_HV": [
+  "W+0_RB3+_S09_Forward", 
+  "W+0_RB3+_S09_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S10_RB1in_HV": [
+  "W-1_RB1in_S10_Backward", 
+  "W-1_RB1in_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S08_RB3minus_HV": [
+  "W-2_RB3-_S08_Forward", 
+  "W-2_RB3-_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C24_EN3_R3_C14_HV": [
+  "RE-2_R3_CH24_C", 
+  "RE-2_R3_CH24_B", 
+  "RE-2_R3_CH24_A", 
+  "RE-3_R3_CH14_C", 
+  "RE-3_R3_CH14_B", 
+  "RE-3_R3_CH14_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C13_HV": [
+  "RE-4_R3_CH13_C", 
+  "RE-4_R3_CH13_B", 
+  "RE-4_R3_CH13_A", 
+  "RE-4_R2_CH13_A", 
+  "RE-4_R2_CH13_B", 
+  "RE-4_R2_CH13_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S11_RB2in_HV": [
+  "W-2_RB2in_S11_Backward", 
+  "W-2_RB2in_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S07_RB4minus_HV": [
+  "W+0_RB4-_S07_Forward", 
+  "W+0_RB4-_S07_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C19_EP1_R3_C25_HV": [
+  "RE+1_R3_CH25_C", 
+  "RE+1_R3_CH25_B", 
+  "RE+1_R3_CH25_A", 
+  "RE+1_R3_CH19_B", 
+  "RE+1_R3_CH19_C", 
+  "RE+1_R3_CH19_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S07_RB1in_HV": [
+  "W-1_RB1in_S07_Backward", 
+  "W-1_RB1in_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S07_RB2out_HV": [
+  "W+0_RB2out_S07_Backward", 
+  "W+0_RB2out_S07_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C16_EN3_R3_C18_HV": [
+  "RE-3_R3_CH16_A", 
+  "RE-3_R3_CH16_C", 
+  "RE-3_R3_CH16_B", 
+  "RE-3_R3_CH18_C", 
+  "RE-3_R3_CH18_B", 
+  "RE-3_R3_CH18_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C32_EP2_R3_C01_HV": [
+  "RE+2_R3_CH01_B", 
+  "RE+2_R3_CH01_C", 
+  "RE+2_R3_CH01_A", 
+  "RE+1_R3_CH32_C", 
+  "RE+1_R3_CH32_B", 
+  "RE+1_R3_CH32_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C31_EP2_R3_C08_HV": [
+  "RE+1_R2_CH31_C", 
+  "RE+1_R2_CH31_B", 
+  "RE+1_R2_CH31_A", 
+  "RE+2_R3_CH08_C", 
+  "RE+2_R3_CH08_B", 
+  "RE+2_R3_CH08_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB4plus_HV": [
+  "W-1_RB4+_S04_Forward", 
+  "W-1_RB4+_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S08_RB1out_HV": [
+  "W+2_RB1out_S08_Backward", 
+  "W+2_RB1out_S08_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C24_HV": [
+  "RE-4_R2_CH24_B", 
+  "RE-4_R2_CH24_C", 
+  "RE-4_R2_CH24_A", 
+  "RE-4_R3_CH24_A", 
+  "RE-4_R3_CH24_C", 
+  "RE-4_R3_CH24_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S05_RB1in_HV": [
+  "W-2_RB1in_S05_Backward", 
+  "W-2_RB1in_S05_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S11_RB3plus_HV": [
+  "W-1_RB3+_S11_Backward", 
+  "W-1_RB3+_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S06_RB2in_HV": [
+  "W+2_RB2in_S06_Backward", 
+  "W+2_RB2in_S06_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C28_HV": [
+  "RE+4_R3_CH28_C", 
+  "RE+4_R3_CH28_B", 
+  "RE+4_R3_CH28_A", 
+  "RE+4_R2_CH28_A", 
+  "RE+4_R2_CH28_B", 
+  "RE+4_R2_CH28_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S11_RB4_HV": [
+  "W-1_RB4_S11_Backward", 
+  "W-1_RB4_S11_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C24_EN3_R3_C27_HV": [
+  "RE-3_R2_CH24_A", 
+  "RE-3_R2_CH24_C", 
+  "RE-3_R2_CH24_B", 
+  "RE-3_R3_CH27_A", 
+  "RE-3_R3_CH27_C", 
+  "RE-3_R3_CH27_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C26_EP3_R3_C21_HV": [
+  "RE+2_R3_CH26_C", 
+  "RE+2_R3_CH26_B", 
+  "RE+2_R3_CH26_A", 
+  "RE+3_R3_CH21_A", 
+  "RE+3_R3_CH21_C", 
+  "RE+3_R3_CH21_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S08_RB2in_HV": [
+  "W-1_RB2in_S08_Backward", 
+  "W-1_RB2in_S08_Middle", 
+  "W-1_RB2in_S08_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C05_EN2_R2_C09_HV": [
+  "RE-2_R2_CH05_C", 
+  "RE-2_R2_CH05_B", 
+  "RE-2_R2_CH05_A", 
+  "RE-2_R2_CH09_C", 
+  "RE-2_R2_CH09_B", 
+  "RE-2_R2_CH09_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S08_RB2in_HV": [
+  "W+0_RB2in_S08_Middle", 
+  "W+0_RB2in_S08_Backward", 
+  "W+0_RB2in_S08_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S05_RB2out_HV": [
+  "W+0_RB2out_S05_Forward", 
+  "W+0_RB2out_S05_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C17_EP1_R3_C18_HV": [
+  "RE+1_R3_CH18_C", 
+  "RE+1_R3_CH18_B", 
+  "RE+1_R3_CH18_A", 
+  "RE+1_R2_CH17_C", 
+  "RE+1_R2_CH17_B", 
+  "RE+1_R2_CH17_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C06_EP3_R3_C07_HV": [
+  "RE+3_R2_CH06_C", 
+  "RE+3_R2_CH06_B", 
+  "RE+3_R2_CH06_A", 
+  "RE+3_R3_CH07_A", 
+  "RE+3_R3_CH07_C", 
+  "RE+3_R3_CH07_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S07_RB1out_HV": [
+  "W-1_RB1out_S07_Forward", 
+  "W-1_RB1out_S07_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S10_RB4minus_HV": [
+  "W-1_RB4-_S10_Backward", 
+  "W-1_RB4-_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S03_RB3minus_HV": [
+  "W-2_RB3-_S03_Backward", 
+  "W-2_RB3-_S03_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S08_RB4plus_HV": [
+  "W+0_RB4+_S08_Forward", 
+  "W+0_RB4+_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C36_HV": [
+  "RE+4_R2_CH36_A", 
+  "RE+4_R2_CH36_C", 
+  "RE+4_R2_CH36_B", 
+  "RE+4_R3_CH36_B", 
+  "RE+4_R3_CH36_C", 
+  "RE+4_R3_CH36_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S11_RB3minus_HV": [
+  "W+1_RB3-_S11_Forward", 
+  "W+1_RB3-_S11_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S08_RB4minus_HV": [
+  "W+1_RB4-_S08_Forward", 
+  "W+1_RB4-_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S09_RB1out_HV": [
+  "W-1_RB1out_S09_Backward", 
+  "W-1_RB1out_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S05_RB4plus_HV": [
+  "W-2_RB4+_S05_Forward", 
+  "W-2_RB4+_S05_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S11_RB1out_HV": [
+  "W+2_RB1out_S11_Backward", 
+  "W+2_RB1out_S11_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C18_HV": [
+  "RE-4_R2_CH18_C", 
+  "RE-4_R2_CH18_B", 
+  "RE-4_R2_CH18_A", 
+  "RE-4_R3_CH18_A", 
+  "RE-4_R3_CH18_B", 
+  "RE-4_R3_CH18_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S06_RB3minus_HV": [
+  "W+2_RB3-_S06_Backward", 
+  "W+2_RB3-_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S01_RB3minus_HV": [
+  "W-2_RB3-_S01_Forward", 
+  "W-2_RB3-_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB1in_HV": [
+  "W+1_RB1in_S04_Backward", 
+  "W+1_RB1in_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R3_C30_HV": [
+  "RE+3_R3_CH30_C", 
+  "RE+3_R3_CH30_B", 
+  "RE+3_R3_CH30_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S10_RB2out_HV": [
+  "W+1_RB2out_S10_Backward", 
+  "W+1_RB2out_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S02_RB4plus_HV": [
+  "W+2_RB4+_S02_Backward", 
+  "W+2_RB4+_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S05_RB1out_HV": [
+  "W+0_RB1out_S05_Backward", 
+  "W+0_RB1out_S05_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C33_EN3_R3_C10_HV": [
+  "RE-2_R3_CH33_C", 
+  "RE-2_R3_CH33_B", 
+  "RE-2_R3_CH33_A", 
+  "RE-3_R3_CH10_C", 
+  "RE-3_R3_CH10_B", 
+  "RE-3_R3_CH10_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB3minus_HV": [
+  "W-2_RB3-_S04_Backward", 
+  "W-2_RB3-_S04_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S01_RB4minus_HV": [
+  "W-2_RB4-_S01_Backward", 
+  "W-2_RB4-_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S02_RB1in_HV": [
+  "W+2_RB1in_S02_Forward", 
+  "W+2_RB1in_S02_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S03_RB1out_HV": [
+  "W-1_RB1out_S03_Backward", 
+  "W-1_RB1out_S03_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C33_EP1_R3_C34_HV": [
+  "RE+1_R3_CH34_A", 
+  "RE+1_R3_CH34_C", 
+  "RE+1_R3_CH34_B", 
+  "RE+1_R2_CH33_A", 
+  "RE+1_R2_CH33_C", 
+  "RE+1_R2_CH33_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S08_RB1out_HV": [
+  "W-1_RB1out_S08_Forward", 
+  "W-1_RB1out_S08_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C25_EP2_R2_C16_HV": [
+  "RE+2_R2_CH16_A", 
+  "RE+2_R2_CH16_C", 
+  "RE+2_R2_CH16_B", 
+  "RE+1_R2_CH25_A", 
+  "RE+1_R2_CH25_B", 
+  "RE+1_R2_CH25_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C03_EN3_R3_C04_HV": [
+  "RE-3_R3_CH04_A", 
+  "RE-3_R3_CH04_B", 
+  "RE-3_R3_CH04_C", 
+  "RE-3_R3_CH03_C", 
+  "RE-3_R3_CH03_B", 
+  "RE-3_R3_CH03_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C13_EN3_R3_C21_HV": [
+  "RE-3_R3_CH21_C", 
+  "RE-3_R3_CH21_B", 
+  "RE-3_R3_CH21_A", 
+  "RE-3_R3_CH13_A", 
+  "RE-3_R3_CH13_B", 
+  "RE-3_R3_CH13_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S02_RB1out_HV": [
+  "W+2_RB1out_S02_Backward", 
+  "W+2_RB1out_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S04_RB2in_HV": [
+  "W+0_RB2in_S04_Forward", 
+  "W+0_RB2in_S04_Middle", 
+  "W+0_RB2in_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C22_EP1_R2_C26_HV": [
+  "RE+1_R2_CH26_C", 
+  "RE+1_R2_CH26_B", 
+  "RE+1_R2_CH26_A", 
+  "RE+1_R2_CH22_C", 
+  "RE+1_R2_CH22_B", 
+  "RE+1_R2_CH22_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB4plus_HV": [
+  "W+1_RB4+_S04_Backward", 
+  "W+1_RB4+_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C28_EN1_R3_C12_HV": [
+  "RE-1_R2_CH28_C", 
+  "RE-1_R2_CH28_B", 
+  "RE-1_R2_CH28_A", 
+  "RE-1_R3_CH12_C", 
+  "RE-1_R3_CH12_B", 
+  "RE-1_R3_CH12_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C05_EN1_R2_C08_HV": [
+  "RE-1_R2_CH08_A", 
+  "RE-1_R2_CH08_C", 
+  "RE-1_R2_CH08_B", 
+  "RE-1_R2_CH05_A", 
+  "RE-1_R2_CH05_B", 
+  "RE-1_R2_CH05_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S02_RB1out_HV": [
+  "W+1_RB1out_S02_Backward", 
+  "W+1_RB1out_S02_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C18_EN2_R3_C16_HV": [
+  "RE-1_R3_CH18_A", 
+  "RE-1_R3_CH18_C", 
+  "RE-1_R3_CH18_B", 
+  "RE-2_R3_CH16_A", 
+  "RE-2_R3_CH16_B", 
+  "RE-2_R3_CH16_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R3_C29_EN3_R3_C30_HV": [
+  "RE-3_R3_CH30_A", 
+  "RE-3_R3_CH30_C", 
+  "RE-3_R3_CH30_B", 
+  "RE-3_R3_CH29_C", 
+  "RE-3_R3_CH29_B", 
+  "RE-3_R3_CH29_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S04_RB4plusplus_HV": [
+  "W-2_RB4++_S04_Forward", 
+  "W-2_RB4++_S04_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C04_HV": [
+  "RE-2_R3_CH04_A", 
+  "RE-2_R3_CH04_C", 
+  "RE-2_R3_CH04_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C23_HV": [
+  "RE+4_R3_CH23_A", 
+  "RE+4_R3_CH23_B", 
+  "RE+4_R3_CH23_C", 
+  "RE+4_R2_CH23_C", 
+  "RE+4_R2_CH23_B", 
+  "RE+4_R2_CH23_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S11_RB3plus_HV": [
+  "W-2_RB3+_S11_Forward", 
+  "W-2_RB3+_S11_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S06_RB4minus_HV": [
+  "W-2_RB4-_S06_Backward", 
+  "W-2_RB4-_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S11_RB2out_HV": [
+  "W+0_RB2out_S11_Backward", 
+  "W+0_RB2out_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB3minus_HV": [
+  "W-1_RB3-_S04_Backward", 
+  "W-1_RB3-_S04_Forward"
+ ], 
+
+ "RPCUSEndcap/HV/RPC_EN1_R3_C33_EN2_R3_C06_HV": [
+  "RE-2_R3_CH06_C", 
+  "RE-2_R3_CH06_B", 
+  "RE-2_R3_CH06_A", 
+  "RE-1_R3_CH33_A", 
+  "RE-1_R3_CH33_B", 
+  "RE-1_R3_CH33_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S12_RB3plus_HV": [
+  "W-1_RB3+_S12_Backward", 
+  "W-1_RB3+_S12_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C19_EN3_R3_C24_HV": [
+  "RE-3_R2_CH19_A", 
+  "RE-3_R2_CH19_C", 
+  "RE-3_R2_CH19_B", 
+  "RE-3_R3_CH24_B", 
+  "RE-3_R3_CH24_C", 
+  "RE-3_R3_CH24_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S07_RB4minus_HV": [
+  "W-1_RB4-_S07_Backward", 
+  "W-1_RB4-_S07_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S02_RB4minus_HV": [
+  "W+0_RB4-_S02_Backward", 
+  "W+0_RB4-_S02_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C22_EN3_R2_C28_HV": [
+  "RE-3_R2_CH28_A", 
+  "RE-3_R2_CH28_C", 
+  "RE-3_R2_CH28_B", 
+  "RE-3_R2_CH22_C", 
+  "RE-3_R2_CH22_B", 
+  "RE-3_R2_CH22_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C09_EP3_R2_C31_HV": [
+  "RE+3_R2_CH09_A", 
+  "RE+3_R2_CH09_B", 
+  "RE+3_R2_CH09_C", 
+  "RE+3_R2_CH31_A", 
+  "RE+3_R2_CH31_C", 
+  "RE+3_R2_CH31_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C13_EP2_R2_C15_HV": [
+  "RE+1_R2_CH13_C", 
+  "RE+1_R2_CH13_B", 
+  "RE+1_R2_CH13_A", 
+  "RE+2_R2_CH15_B", 
+  "RE+2_R2_CH15_C", 
+  "RE+2_R2_CH15_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S09_RB1in_HV": [
+  "W+0_RB1in_S09_Backward", 
+  "W+0_RB1in_S09_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C16_EN2_R3_C17_HV": [
+  "RE-2_R3_CH17_A", 
+  "RE-2_R3_CH17_C", 
+  "RE-2_R3_CH17_B", 
+  "RE-2_R2_CH16_C", 
+  "RE-2_R2_CH16_B", 
+  "RE-2_R2_CH16_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R3_C04_EN1_R3_C10_HV": [
+  "RE-1_R3_CH10_A", 
+  "RE-1_R3_CH10_C", 
+  "RE-1_R3_CH10_B", 
+  "RE-1_R3_CH04_B", 
+  "RE-1_R3_CH04_C", 
+  "RE-1_R3_CH04_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S06_RB4plus_HV": [
+  "W+1_RB4+_S06_Forward", 
+  "W+1_RB4+_S06_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S09_RB2out_HV": [
+  "W+0_RB2out_S09_Backward", 
+  "W+0_RB2out_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S11_RB1in_HV": [
+  "W-2_RB1in_S11_Forward", 
+  "W-2_RB1in_S11_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB2in_HV": [
+  "W-1_RB2in_S04_Forward", 
+  "W-1_RB2in_S04_Backward", 
+  "W-1_RB2in_S04_Middle"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C33_EP2_R2_C35_HV": [
+  "RE+2_R2_CH33_B", 
+  "RE+2_R2_CH33_C", 
+  "RE+2_R2_CH33_A", 
+  "RE+2_R2_CH35_A", 
+  "RE+2_R2_CH35_B", 
+  "RE+2_R2_CH35_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S06_RB1in_HV": [
+  "W+2_RB1in_S06_Backward", 
+  "W+2_RB1in_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S01_RB4plus_HV": [
+  "W-2_RB4+_S01_Backward", 
+  "W-2_RB4+_S01_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C08_EP1_R3_C08_HV": [
+  "RE+1_R2_CH08_C", 
+  "RE+1_R2_CH08_B", 
+  "RE+1_R2_CH08_A", 
+  "RE+1_R3_CH08_A", 
+  "RE+1_R3_CH08_B", 
+  "RE+1_R3_CH08_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S10_RB3minus_HV": [
+  "W+0_RB3-_S10_Forward", 
+  "W+0_RB3-_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S12_RB2out_HV": [
+  "W-2_RB2out_S12_Middle", 
+  "W-2_RB2out_S12_Backward", 
+  "W-2_RB2out_S12_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S06_RB3plus_HV": [
+  "W+2_RB3+_S06_Backward", 
+  "W+2_RB3+_S06_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R2_C24_EP2_R2_C14_HV": [
+  "RE+2_R2_CH14_C", 
+  "RE+2_R2_CH14_B", 
+  "RE+2_R2_CH14_A", 
+  "RE+1_R2_CH24_A", 
+  "RE+1_R2_CH24_C", 
+  "RE+1_R2_CH24_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S06_RB2out_HV": [
+  "W+0_RB2out_S06_Backward", 
+  "W+0_RB2out_S06_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S09_RB3minus_HV": [
+  "W+2_RB3-_S09_Backward", 
+  "W+2_RB3-_S09_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S09_RB2out_HV": [
+  "W-2_RB2out_S09_Backward", 
+  "W-2_RB2out_S09_Middle", 
+  "W-2_RB2out_S09_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C25_HV": [
+  "RE-4_R2_CH25_C", 
+  "RE-4_R2_CH25_B", 
+  "RE-4_R2_CH25_A", 
+  "RE-4_R3_CH25_A", 
+  "RE-4_R3_CH25_B", 
+  "RE-4_R3_CH25_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C18_HV": [
+  "RE+4_R3_CH18_B", 
+  "RE+4_R3_CH18_C", 
+  "RE+4_R3_CH18_A", 
+  "RE+4_R2_CH18_A", 
+  "RE+4_R2_CH18_C", 
+  "RE+4_R2_CH18_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R2_C10_EP2_R2_C29_HV": [
+  "RE+2_R2_CH29_C", 
+  "RE+2_R2_CH29_B", 
+  "RE+2_R2_CH29_A", 
+  "RE+2_R2_CH10_C", 
+  "RE+2_R2_CH10_B", 
+  "RE+2_R2_CH10_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S01_RB1out_HV": [
+  "W+2_RB1out_S01_Backward", 
+  "W+2_RB1out_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S08_RB3minus_HV": [
+  "W+2_RB3-_S08_Forward", 
+  "W+2_RB3-_S08_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S12_RB2out_HV": [
+  "W+1_RB2out_S12_Forward", 
+  "W+1_RB2out_S12_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C10_HV": [
+  "RE-4_R2_CH10_C", 
+  "RE-4_R2_CH10_B", 
+  "RE-4_R2_CH10_A", 
+  "RE-4_R3_CH10_A", 
+  "RE-4_R3_CH10_B", 
+  "RE-4_R3_CH10_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S01_RB1in_HV": [
+  "W+2_RB1in_S01_Backward", 
+  "W+2_RB1in_S01_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S11_RB2in_HV": [
+  "W-1_RB2in_S11_Forward", 
+  "W-1_RB2in_S11_Middle", 
+  "W-1_RB2in_S11_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP3_R2_C01_EP3_R2_C08_HV": [
+  "RE+3_R2_CH08_A", 
+  "RE+3_R2_CH08_C", 
+  "RE+3_R2_CH08_B", 
+  "RE+3_R2_CH01_A", 
+  "RE+3_R2_CH01_B", 
+  "RE+3_R2_CH01_C"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S03_RB4plus_HV": [
+  "W-1_RB4+_S03_Forward", 
+  "W-1_RB4+_S03_Backward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C07_HV": [
+  "RE-4_R3_CH07_A", 
+  "RE-4_R3_CH07_B", 
+  "RE-4_R3_CH07_C", 
+  "RE-4_R2_CH07_C", 
+  "RE-4_R2_CH07_B", 
+  "RE-4_R2_CH07_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S11_RB1in_HV": [
+  "W+1_RB1in_S11_Backward", 
+  "W+1_RB1in_S11_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S02_RB4plus_HV": [
+  "W+0_RB4+_S02_Backward", 
+  "W+0_RB4+_S02_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP4_R2_R3_C21_HV": [
+  "RE+4_R3_CH21_B", 
+  "RE+4_R3_CH21_C", 
+  "RE+4_R3_CH21_A", 
+  "RE+4_R2_CH21_A", 
+  "RE+4_R2_CH21_C", 
+  "RE+4_R2_CH21_B"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R2_C31_EN3_R2_C01_HV": [
+  "RE-2_R2_CH31_B", 
+  "RE-2_R2_CH31_C", 
+  "RE-2_R2_CH31_A", 
+  "RE-3_R2_CH01_B", 
+  "RE-3_R2_CH01_C", 
+  "RE-3_R2_CH01_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP2_R3_C27_EP3_R3_C27_HV": [
+  "RE+3_R3_CH27_C", 
+  "RE+3_R3_CH27_B", 
+  "RE+3_R3_CH27_A", 
+  "RE+2_R3_CH27_B", 
+  "RE+2_R3_CH27_C", 
+  "RE+2_R3_CH27_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S02_RB2out_HV": [
+  "W+1_RB2out_S02_Backward", 
+  "W+1_RB2out_S02_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S11_RB2out_HV": [
+  "W-1_RB2out_S11_Forward", 
+  "W-1_RB2out_S11_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S01_RB2out_HV": [
+  "W+2_RB2out_S01_Forward", 
+  "W+2_RB2out_S01_Backward", 
+  "W+2_RB2out_S01_Middle"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S04_RB2in_HV": [
+  "W+1_RB2in_S04_Forward", 
+  "W+1_RB2in_S04_Backward", 
+  "W+1_RB2in_S04_Middle"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN4_R2_R3_C21_HV": [
+  "RE-4_R3_CH21_A", 
+  "RE-4_R3_CH21_B", 
+  "RE-4_R3_CH21_C", 
+  "RE-4_R2_CH21_C", 
+  "RE-4_R2_CH21_B", 
+  "RE-4_R2_CH21_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM1_S04_RB1out_HV": [
+  "W-1_RB1out_S04_Backward", 
+  "W-1_RB1out_S04_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN3_R2_C06_EN3_R2_C32_HV": [
+  "RE-3_R2_CH32_A", 
+  "RE-3_R2_CH32_B", 
+  "RE-3_R2_CH32_C", 
+  "RE-3_R2_CH06_A", 
+  "RE-3_R2_CH06_C", 
+  "RE-3_R2_CH06_B"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S10_RB3minus_HV": [
+  "W+2_RB3-_S10_Forward", 
+  "W+2_RB3-_S10_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S04_RB1in_HV": [
+  "W+2_RB1in_S04_Forward", 
+  "W+2_RB1in_S04_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WM2_S10_RB4minus_HV": [
+  "W-2_RB4-_S10_Backward", 
+  "W-2_RB4-_S10_Forward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S03_RB3plus_HV": [
+  "W+0_RB3+_S03_Forward", 
+  "W+0_RB3+_S03_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_W00_S01_RB4minus_HV": [
+  "W+0_RB4-_S01_Forward", 
+  "W+0_RB4-_S01_Backward"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP1_S01_RB1in_HV": [
+  "W+1_RB1in_S01_Backward", 
+  "W+1_RB1in_S01_Forward"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN2_R3_C01_EN2_R3_C02_HV": [
+  "RE-2_R3_CH02_C", 
+  "RE-2_R3_CH02_B", 
+  "RE-2_R3_CH02_A", 
+  "RE-2_R3_CH01_A", 
+  "RE-2_R3_CH01_B", 
+  "RE-2_R3_CH01_C"
+ ], 
+ "RPCUSEndcap/HV/RPC_EN1_R2_C32_EN1_R2_C35_HV": [
+  "RE-1_R2_CH35_A", 
+  "RE-1_R2_CH35_C", 
+  "RE-1_R2_CH35_B", 
+  "RE-1_R2_CH32_B", 
+  "RE-1_R2_CH32_C", 
+  "RE-1_R2_CH32_A"
+ ], 
+ "RPCUSEndcap/HV/RPC_EP1_R3_C20_EP1_R3_C24_HV": [
+  "RE+1_R3_CH24_B", 
+  "RE+1_R3_CH24_C", 
+  "RE+1_R3_CH24_A", 
+  "RE+1_R3_CH20_B", 
+  "RE+1_R3_CH20_C", 
+  "RE+1_R3_CH20_A"
+ ], 
+ "RPCUSBarrel/HV/RPC_WP2_S07_RB4minus_HV": [
+  "W+2_RB4-_S07_Forward", 
+  "W+2_RB4-_S07_Backward"
+ ]
+}
